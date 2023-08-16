@@ -10,7 +10,7 @@ sections:
       title: |
         Guan
         Group
-        @CUHKSZ
+        
       image:
         filename: welcome.jpg
       text: |
