@@ -9,20 +9,7 @@ authors:
   - Yi Wang
   - Max J. H. Tan
   - George C. Schatz & Teri W. Odom
-author_notes:
-  - In this work
-  - we demonstrated far-field coupling between photonic lattices in bilayer and
-    trilayer moiré architectures
-  - which are composed of plasmonic nanoparticle (NP) lattices with large
-    spatial separations1. We showed that the dark surface lattice resonances
-    (SLRs) of the NP lattices can maintain phase coherence in the out-of-plane
-    direction and mediate the interactions between different lattices. By tuning
-    the twist angle between the lattices
-  - we achieved real-time control of lasing emission from moiré modes. We also
-    constructed a three-layer moiré structure that exhibited simultaneous
-    coupling among all three lattices2. Our discovery of far-field interlattice
-    coupling opens new possibilities for manipulating light and matter in the
-    vertical dimension of two-dimensional photonic lattices
+author_notes: []
 doi: https://doi.org/10.1038/s41565-023-01320-7
 publication: "Nature Nanotechnology "
 abstract: Superposing two or more periodic structures to form moiré patterns is
@@ -43,5 +30,5 @@ image:
   filename: far-field-coupling-between-moiré-overview.jpg
   focal_point: TopRight
   preview_only: false
-date: 2023-08-16T07:59:15.513Z
+date: 2023-08-16T11:58:28.473Z
 ---
