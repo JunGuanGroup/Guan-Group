@@ -31,7 +31,6 @@ education:
 email: ""
 user_groups:
   - Researchers
-  - Visitors
 last_name: Wu
 first_name: Alice
 ---
