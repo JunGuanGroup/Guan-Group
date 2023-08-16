@@ -19,8 +19,8 @@ sections:
         country: United States
         country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '22.69229'
+        longitude: '114.21005'
       directions: 2001 Longxiang Boulevard, Longgang District, Shenzhen
       office_hours:
         - 'Monday 10:00 to 13:00'
