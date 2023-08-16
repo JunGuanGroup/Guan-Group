@@ -28,7 +28,7 @@ draft: false
 featured: false
 image:
   filename: far-field-coupling-between-moiré-.jpg
-  focal_point: TopRight
+  focal_point: Smart
   preview_only: false
 date: 2023-08-16T11:58:28.473Z
 ---
