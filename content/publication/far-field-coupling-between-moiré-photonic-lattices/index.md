@@ -1,0 +1,47 @@
+---
+title: Far-field coupling between moiré photonic lattices
+subtitle: ""
+publication_types:
+  - "2"
+authors:
+  - Jun Guan
+  - Jingtian Hu
+  - Yi Wang
+  - Max J. H. Tan
+  - George C. Schatz & Teri W. Odom
+author_notes:
+  - J.G. and T.W.O. conceived the idea of moiré photonic lattices. J.G. and J.H.
+    designed the moiré architecture
+  - fabricated the plasmonic NP lattices
+  - characterized the linear optical properties of the devices and performed the
+    FDTD numerical simulations. J.G.
+  - J.H.
+  - Y.W. and M.J.H.T. carried out the lasing measurements. Y.W. fabricated the
+    TiO2 NP lattices. G.C.S. guided the theoretical investigations. J.G. and
+    T.W.O. analysed the data and wrote the manuscript. All the authors commented
+    on and revised the manuscript.
+doi: https://doi.org/10.1038/s41565-023-01320-7
+publication: "Nature Nanotechnology "
+abstract: Superposing two or more periodic structures to form moiré patterns is
+  emerging as a promising platform to confine and manipulate light. However,
+  moiré-facilitated interactions and phenomena have been constrained to the
+  vicinity of moiré lattices. Here we report on the observation of
+  ultralong-range coupling between photonic lattices in bilayer and multilayer
+  moiré architectures mediated by dark surface lattice resonances in the
+  vertical direction. We show that two-dimensional plasmonic nanoparticle
+  lattices enable twist-angle-controlled directional lasing emission, even when
+  the lattices are spatially separated by distances exceeding three orders of
+  magnitude of lattice periodicity. Our discovery of far-field interlattice
+  coupling opens the possibility of using the out-of-plane dimension for optical
+  manipulation on the nanoscale and microscale.
+draft: false
+featured: false
+tags:
+  - Nanophotonics
+  - SLR
+image:
+  filename: far-field-coupling-between-moiré-.jpg
+  focal_point: Smart
+  preview_only: false
+date: 2023-08-16T11:58:28.473Z
+---
