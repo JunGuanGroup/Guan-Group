@@ -1,5 +1,5 @@
 ---
-title: Bowen Han
+title: Nelson Bighetti
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -34,7 +34,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-superuser: true
+superuser: false
 user_groups:
   - PhD-Students
 last_name: Bighetti
