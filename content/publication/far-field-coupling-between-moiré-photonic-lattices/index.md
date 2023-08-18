@@ -1,27 +1,18 @@
 ---
 title: Far-field coupling between moiré photonic lattices
-subtitle: ""
-publication_types:
-  - "2"
-authors:
-  - Jun Guan
+subtitle: "- Jun Guan
   - Jingtian Hu
   - Yi Wang
   - Max J. H. Tan
-  - George C. Schatz & Teri W. Odom
+  - George C. Schatz & Teri W. Odom"
+publication_types:
+  - "2"
+authors:
+  
 author_notes:
-  - J.G. and T.W.O. conceived the idea of moiré photonic lattices. J.G. and J.H.
-    designed the moiré architecture
-  - fabricated the plasmonic NP lattices
-  - characterized the linear optical properties of the devices and performed the
-    FDTD numerical simulations. J.G.
-  - J.H.
-  - Y.W. and M.J.H.T. carried out the lasing measurements. Y.W. fabricated the
-    TiO2 NP lattices. G.C.S. guided the theoretical investigations. J.G. and
-    T.W.O. analysed the data and wrote the manuscript. All the authors commented
-    on and revised the manuscript.
+  
 doi: https://doi.org/10.1038/s41565-023-01320-7
-publication: "Nature Nanotechnology "
+publication: "*Nature Nanotechnology 2023* "
 abstract: Superposing two or more periodic structures to form moiré patterns is
   emerging as a promising platform to confine and manipulate light. However,
   moiré-facilitated interactions and phenomena have been constrained to the
@@ -38,7 +29,7 @@ draft: false
 featured: false
 tags:
   - Nanophotonics
-  - SLR
+  - Surface Lattice Resonance
 image:
   filename: far-field-coupling-between-moiré-.jpg
   focal_point: Smart
