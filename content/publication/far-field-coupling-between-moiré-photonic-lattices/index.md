@@ -1,5 +1,8 @@
 ---
 title: Far-field coupling between moiré photonic lattices
+ image:
+  filename: far-field-coupling-between-moiré-.jpg
+  focal_point: Right
 subtitle: "- Jun Guan
   - Jingtian Hu
   - Yi Wang
@@ -31,6 +34,8 @@ featured: false
 tags:
   - Nanophotonics
   - Surface Lattice Resonance
+##view: compact
+
 image:
   filename: far-field-coupling-between-moiré-.jpg
   focal_point: Smart
