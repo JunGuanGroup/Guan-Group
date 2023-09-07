@@ -1,6 +1,6 @@
 ---
 title: Far-field coupling between moiré photonic lattices
- view: compact
+view: compact
  image:
   filename: far-field-coupling-between-moiré-.jpg
   focal_point: Right
