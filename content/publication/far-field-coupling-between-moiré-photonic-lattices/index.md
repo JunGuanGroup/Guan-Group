@@ -1,5 +1,5 @@
 ---
-title: [Far-field coupling between moiré photonic lattices ](https://www.nature.com/articles/s41565-023-01320-7)
+title: [Far-field coupling between moiré photonic lattices](https://www.nature.com/articles/s41565-023-01320-7)
 
 image:
   filename: far-field-coupling-between-moiré-.jpg
@@ -22,7 +22,7 @@ abstract: - Jun Guan
   - Yi Wang
   - Max J. H. Tan
   - George C. Schatz & Teri W. Odom
- 
+
 draft: false
 featured: false
 tags:
