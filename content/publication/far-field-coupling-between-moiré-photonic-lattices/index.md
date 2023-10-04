@@ -10,11 +10,6 @@ subtitle: "- Jun Guan
 publication_types:
   - "2"
 authors: 
-  - Jun Guan
-  - Jingtian Hu
-  - Yi Wang
-  - Max J. H. Tan
-  - George C. Schatz & Teri W. Odom
   
 author_notes:
   
