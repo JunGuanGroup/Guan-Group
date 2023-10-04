@@ -9,7 +9,11 @@ subtitle: "- Jun Guan
   - George C. Schatz & Teri W. Odom"
 publication_types:
   - "2"
-authors:
+authors: "- **Jun Guan**
+  - Jingtian Hu
+  - Yi Wang
+  - Max J. H. Tan
+  - George C. Schatz & Teri W. Odom"
   
 author_notes:
   
