@@ -29,7 +29,7 @@ image:
   focal_point: Smart
   preview_only: false
 
-date: 
+ 
 doi: 'https://doi.org/10.1038/s41565-023-01320-7'
  
 
