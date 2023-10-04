@@ -14,7 +14,7 @@ main:
     url: research
     weight: 20
   - name: Team
-    url: team
+    url: people
     weight: 30
   - name: Publications
     url: publication
