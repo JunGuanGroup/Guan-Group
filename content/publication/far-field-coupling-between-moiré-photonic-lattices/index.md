@@ -1,9 +1,7 @@
 ---
 title: Far-field coupling between moiré photonic lattices 
 
-image:
-  filename: far-field-coupling-between-moiré-.jpg
-  focal_point: Right
+
 subtitle: "- Jun Guan
   - Jingtian Hu
   - Yi Wang
