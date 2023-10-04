@@ -19,7 +19,7 @@ author_notes:
 publication: "*Nature Nanotechnology* 2023 "
 abstract: - Jun Guan
   - Jingtian Hu
-  - Yi Wan
+  - Yi Wang
   - Max J. H. Tan
   - George C. Schatz & Teri W. Odom
 
