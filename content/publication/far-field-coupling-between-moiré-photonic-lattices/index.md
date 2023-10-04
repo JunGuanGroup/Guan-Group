@@ -1,5 +1,5 @@
 ---
-title: Far-field coupling between moiré photonic lattices 
+title: Far-field Coupling between Moiré Photonic Lattices 
 
 
 subtitle: " **_Nature Nanotechnology_** <br> 
@@ -14,8 +14,8 @@ author_notes:
 publication: "*Nature Nanotechnology* 2023 "
 abstract: "Superposing two or more periodic structures to form moiré patterns is emerging as a promising platform to confine and manipulate light. However, moiré-facilitated interactions and phenomena have been constrained to the vicinity of moiré lattices. Here we report on the observation of ultralong-range coupling between photonic lattices in bilayer and multilayer moiré architectures mediated by dark surface lattice resonances in the vertical direction. We show that two-dimensional plasmonic nanoparticle lattices enable twist-angle-controlled directional lasing emission, even when the lattices are spatially separated by distances exceeding three orders of magnitude of lattice periodicity. Our discovery of far-field interlattice coupling opens the possibility of using the out-of-plane dimension for optical manipulation on the nanoscale and microscale."
 
-summary: "**Jun Guan**,  Jingtian Hu, Yi Wang, Max J. H. Tan, George C. Schatz, and Teri W. Odom 
-**_Nature Nanotechnology_** volume 18, pages 514–520 (2023)"
+summary: "**Jun Guan**,  Jingtian Hu, Yi Wang, Max J. H. Tan, George C. Schatz, and Teri W. Odom  <br>
+_Nature Nanotechnology_ 18, 514–520 (2023)"
 
 draft: false
 featured: false
