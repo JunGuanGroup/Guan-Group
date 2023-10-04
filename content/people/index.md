@@ -1,8 +1,8 @@
 ---
 title: People
 date: 2022-10-24
-
-type: landing
+view: showcase
+##type: landing
 
 sections:
   - block: people
