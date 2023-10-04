@@ -1,5 +1,5 @@
 ---
-title: [Richard Hendricks Wins First Place in the Wowchemy Prize](https://www.nature.com/articles/s41565-023-01320-7)
+title: Richard Hendricks Wins First Place in the Wowchemy Prize [DOI](https://www.nature.com/articles/s41565-023-01320-7)
 date: 2020-12-01
 ---
 
