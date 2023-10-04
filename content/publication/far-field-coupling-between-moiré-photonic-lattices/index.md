@@ -10,7 +10,7 @@ subtitle: "- Jun Guan
 publication_types:
   - "2"
 authors: 
-- **Jun Guan**
+  - Jun Guan
   - Jingtian Hu
   - Yi Wang
   - Max J. H. Tan
