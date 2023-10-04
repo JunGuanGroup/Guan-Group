@@ -1,5 +1,5 @@
 ---
-title: Far-field coupling between moiré photonic lattices
+title: Far-field coupling between moiré photonic lattices *Nature Nanotechnology* 2023
 
 image:
   filename: far-field-coupling-between-moiré-.jpg
@@ -15,7 +15,7 @@ authors:
   
 author_notes:
   
-doi: https://doi.org/10.1038/s41565-023-01320-7
+
 publication: "*Nature Nanotechnology* 2023 "
 abstract: Superposing two or more periodic structures to form moiré patterns is
   emerging as a promising platform to confine and manipulate light. However,
@@ -35,7 +35,7 @@ featured: false
 tags:
   - Nanophotonics
   - Surface Lattice Resonance
-##view: compact
+
 
 image:
   filename: far-field-coupling-between-moiré-.jpg
