@@ -25,4 +25,6 @@ image:
   focal_point: Smart
   preview_only: false
 
+doi: 'https://doi.org/10.1038/s41565-023-01320-7'
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 ---
