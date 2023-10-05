@@ -1,6 +1,6 @@
 ---
 title: 'Jun Guan <br> 管君'
-role: Assistant Professor <br> guanjun@cuhk.edu.cn
+role: 'Assistant Professor <br> guanjun@cuhk.edu.cn'
 avatar_filename: avatar-junguan.png
 organizations:
   - name: CUHK-Shenzhen
