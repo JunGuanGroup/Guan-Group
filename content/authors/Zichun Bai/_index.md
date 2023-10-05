@@ -1,6 +1,6 @@
 ---
 title: Zichun Bai 白子淳
-role: Master Student
+role: M.Phil. Student
 avatar_filename: avatar-ZichunBai.png
 organizations:
   - name: CUHK-Shenzhen
