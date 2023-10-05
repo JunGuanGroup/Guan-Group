@@ -25,7 +25,7 @@ education:
       year: 2023
 email: ""
 user_groups:
-  - PhD Students
+  - Students
 last_name: Bai
 first_name: Zichun
 ---
