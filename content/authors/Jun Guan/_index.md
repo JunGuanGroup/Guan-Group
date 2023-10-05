@@ -23,7 +23,7 @@ social:
 education:
   courses:
     - course: PhD in Applied Physics
-      institution: Northwest University
+      institution: Northwestern University
       year: 2021
     - course: B.S. in Physics
       institution: " Sichuan University"
