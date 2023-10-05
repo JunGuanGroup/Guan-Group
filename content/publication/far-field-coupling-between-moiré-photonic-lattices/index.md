@@ -1,5 +1,5 @@
 ---
-title: '[Far-field Coupling between Moiré Photonic Lattices](https://www.nature.com/articles/s41565-023-01320-7)'
+title: [Far-field Coupling between Moiré Photonic Lattices](https://www.nature.com/articles/s41565-023-01320-7)
 
 
 subtitle: " [**_Nature Nanotechnology_** 18, 514–520 (2023) <br> 
