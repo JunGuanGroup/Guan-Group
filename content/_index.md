@@ -12,31 +12,11 @@ sections:
         Group
         
       image:
-        filename: welcome.jpg
+        filename: Moire.jpg
       text: |
         <br>
         
-        The **Guan Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2023.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
+        The **Guan Group @ CUHK-Shenzhen** focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions and to enable optical devices with new functionalities.
   - block: markdown
     content:
       title:
@@ -56,7 +36,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
   - block: markdown
     content:
       title:

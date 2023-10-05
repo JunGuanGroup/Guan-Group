@@ -1,6 +1,6 @@
-**We Are Actively Looking For Candidates to Join Our Team!**
+**We are Actively Looking For Candidates to Join Our Team!**
 
-**Opportunity for Graduate Students**
+<font size=6>**Opportunity for Graduate Students**</font>
 
 We have a few openings available for highly qualified and motivated graduate students. Students with a strong interest in _soft matter engineering, bioelectronics, or living materials_ are welcome to apply. Research experience in related fields would be a bonus. Please email Prof. Lin (y.lin@nus.edu.sg) with your CV, at least two names of the referees, and an unofficial transcript with the subject “Ph.D. Application”.  Please also state your career plan in the email. The position will remain open until filled.
 
