@@ -28,7 +28,9 @@ image:
   focal_point: Smart
   preview_only: false
 
- 
+links:
+  - name: Custom Link
+    url: https://www.nature.com/articles/s41565-023-01320-7
 
  
 date: 2023-02-01T00:00:00Z
