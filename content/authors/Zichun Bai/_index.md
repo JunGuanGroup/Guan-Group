@@ -29,4 +29,3 @@ user_groups:
 last_name: Bai
 first_name: Zichun
 ---
-223015073@link.cuhk.edu.cn
