@@ -17,15 +17,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 223015073@cuhk.edu.cn
-  - 
+   
 education:
   courses:
-    - course: B.S. in Material Science and Engineering
+    - course: B.Eng. in Material Science and Engineering
       institution: "East China University of Science and Technology"
-      year: 2016
+      year: 2023
 email: ""
 user_groups:
-  - Master Students
+  - PhD Students
 last_name: Bai
 first_name: Zichun
 ---
