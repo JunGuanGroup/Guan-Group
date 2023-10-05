@@ -28,7 +28,7 @@ education:
     - course: B.S. in Physics
       institution: " Sichuan University"
       year: 2016
-email: ""
+email: "guanjun@cuhk.edu.cn"
 user_groups:
   - Principal Investigators
 last_name: Guan
