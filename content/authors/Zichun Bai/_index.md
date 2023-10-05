@@ -28,5 +28,3 @@ user_groups:
   - Students
 last_name: Bai
 first_name: Zichun
----
-Here is my self-introduction
