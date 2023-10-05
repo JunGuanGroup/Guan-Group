@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        The **Guan Group** focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions and to enable optical devices with new functionalities.
+        The **Guan Group @ CUHK-Shenzhen** focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions and to enable optical devices with new functionalities.
   
   - block: markdown
     content:
