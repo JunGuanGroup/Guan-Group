@@ -1,6 +1,6 @@
 ---
 title: Zichun Bai 白子淳
-role: '**M.Phil. Student** <br> 223015073@link.cuhk.edu.cn'
+role: 'M.Phil. Student 223015073@link.cuhk.edu.cn'
 avatar_filename: avatar-ZichunBai.png
 organizations:
   - name: CUHK-Shenzhen
