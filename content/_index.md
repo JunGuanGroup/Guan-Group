@@ -11,8 +11,9 @@ sections:
         Guan
         Group
         
-      image:
-        filename: Moire.jpg
+      banner:
+        image:
+          filename: Moire.jpg
       text: |
         <br>
         
