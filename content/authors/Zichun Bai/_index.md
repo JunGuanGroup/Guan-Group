@@ -20,13 +20,15 @@ social:
    
 education:
   courses:
+    - course: M.Phil. in Material Science and Engineering
+      institution: "The Chinese University of Hong Kong, Shenzhen"
+      year: 2023 - now
     - course: B.Eng. in Material Science and Engineering
       institution: "East China University of Science and Technology"
-      year: 2023
-email: ""
+      year: 2019 - 2023
+email: "223015073@link.cuhk.edu.cn"
 user_groups:
   - Students
 last_name: Bai
 first_name: Zichun
 ---
-223015073@link.cuhk.edu.cn
