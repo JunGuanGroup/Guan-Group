@@ -12,11 +12,11 @@ sections:
         Group
         
       image:
-        filename: welcome.jpg
+        filename: Moire.jpg
       text: |
         <br>
         
-        The **Guan Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2023.
+        The **Guan Group** focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions and to enable optical devices with new functionalities.
   
   - block: collection
     content:
