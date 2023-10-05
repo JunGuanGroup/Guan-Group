@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 223015073@cuhk.edu.cn
+    link: 223015073@link.cuhk.edu.cn
    
 education:
   courses:
@@ -29,4 +29,4 @@ user_groups:
 last_name: Bai
 first_name: Zichun
 ---
-Here is my self-introduction
+223015073@link.cuhk.edu.cn
