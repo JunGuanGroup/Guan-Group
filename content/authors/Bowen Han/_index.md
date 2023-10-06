@@ -23,7 +23,7 @@ education:
     - course: PH.D. in Material Science and Engineering
       institution: "The Chinese University of Hong Kong, Shenzhen"
       year: 2023 - now
-    - course: M.Phil. in Solid Mechanics
+    - course: M.Eng. in Solid Mechanics
       institution: "Tianjin University"
       year: 2020 - 2023
 email: "223010093@link.cuhk.edu.cn"
