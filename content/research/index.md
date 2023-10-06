@@ -26,6 +26,6 @@ References:
 The combination of multiple periodic structures to create moiré patterns holds great potential for controlling and manipulating light. However, the effects and interactions associated with moiré patterns have been limited to the immediate vicinity of these patterns. We present our observations of a remarkable phenomenon: the ultralong-range coupling between photonic lattices in bilayer and multilayer moiré architectures. We show that two-dimensional plasmonic nanoparticle lattices enable twist-angle-controlled, directional lasing emission, even when the lattices are spatially separated by distances exceeding three orders of magnitude that of the lattice periodicity. The discovery of this far-field, inter-lattice coupling opens up exciting possibilities for utilizing the out-of-plane dimension to manipulate light on a nanoscale and microscale level.
 
 References:
-**J. Guan**, J. Hu, Y. Wang, M. J. H. Tan, G. C. Schatz, and T. W. Odom, “Far-field Coupling between Moiré Photonic Lattices.” **_Nature Nanotechnology_** 18, 514-520 (2023).
+1. **J. Guan**, J. Hu, Y. Wang, M. J. H. Tan, G. C. Schatz, and T. W. Odom, “Far-field Coupling between Moiré Photonic Lattices.” **_Nature Nanotechnology_** 18, 514-520 (2023).
 
 ![screen reader text](Moire.jpg "Remote coupling in moiré photonic lattices")
