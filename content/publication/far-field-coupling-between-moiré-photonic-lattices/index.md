@@ -24,7 +24,7 @@ tags:
 image:
   filename: 214.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 
  
 date: 2023-02-01T00:00:00Z
