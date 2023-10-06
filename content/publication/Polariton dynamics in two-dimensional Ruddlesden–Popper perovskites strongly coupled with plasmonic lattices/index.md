@@ -1,5 +1,5 @@
 ---
-title: Polariton dynamics in two-dimensional Ruddlesden–Popper perovskites strongly coupled with plasmonic lattices
+title: Polariton Dynamics in Two-dimensional Ruddlesden–Popper Perovskites Strongly Coupled with Plasmonic Lattices
 
 
 subtitle: " [**_ACS nano_** 2022, 16, 3, 3917–3925 <br> 

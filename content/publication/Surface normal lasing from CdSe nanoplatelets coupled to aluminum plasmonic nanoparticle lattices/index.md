@@ -1,5 +1,5 @@
 ---
-title: Surface normal lasing from CdSe nanoplatelets coupled to aluminum plasmonic nanoparticle lattices
+title: Surface Normal Lasing from CdSe Nanoplatelets Coupled to Aluminum Plasmonic Nanoparticle Lattices
 
 
 subtitle: " [**_The Journal of Physical Chemistry C_** 2021, 125, 36, 19874–19879 <br> 

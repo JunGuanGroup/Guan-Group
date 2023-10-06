@@ -1,5 +1,5 @@
 ---
-title: Interfacial engineering of plasmonic nanoparticle metasurfaces
+title: Interfacial Engineering of Plasmonic Nanoparticle Metasurfaces
 
 
 subtitle: " [**_Proceedings of the National Academy of Sciences_** 119 (22) e2202621119

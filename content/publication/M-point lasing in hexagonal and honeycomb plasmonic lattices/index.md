@@ -1,5 +1,5 @@
 ---
-title: M-point lasing in hexagonal and honeycomb plasmonic lattices
+title: M-point Lasing in Hexagonal and Honeycomb Plasmonic Lattices
 
 
 subtitle: " [**_ACS Photonics_** 2022, 9, 1, 52–58<br> 

@@ -1,5 +1,5 @@
 ---
-title: Identification of Brillouin zones by in-plane lasing from light-cone surface lattice resonances
+title: Identification of Brillouin Zones by In-plane Lasing from Light-cone Surface Lattice Resonances
 
 
 subtitle: " [**_ACS nano_** 2021, 15, 3, 5567–5573<br> 

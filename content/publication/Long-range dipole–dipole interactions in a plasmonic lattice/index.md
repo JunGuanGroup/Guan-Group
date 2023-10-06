@@ -1,5 +1,5 @@
 ---
-title: Long-range dipole–dipole interactions in a plasmonic lattice
+title: Long-range Dipole–dipole Interactions in a Plasmonic Lattice
 
 
 subtitle: " [**_Nano letters_** 2022, 22, 1, 22–28 <br> 

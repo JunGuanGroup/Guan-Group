@@ -1,5 +1,5 @@
 ---
-title: Lasing action from quasi‐propagating modes
+title: Lasing Action From Quasi‐propagating Modes
 
 
 subtitle: " [**_Advanced Materials_** 2203999 <br> 

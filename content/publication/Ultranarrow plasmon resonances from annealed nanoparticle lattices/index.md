@@ -1,5 +1,5 @@
 ---
-title: Ultranarrow plasmon resonances from annealed nanoparticle lattices
+title: Ultranarrow Plasmon Resonances from Annealed Nanoparticle Lattices
 
 
 subtitle: " [**_Proceedings of the National Academy of Sciences_** 117, (38), 23380-23384 (2020) <br> 

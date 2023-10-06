@@ -1,5 +1,5 @@
 ---
-title: Plasmon nanolasing with aluminum nanoparticle arrays
+title: Plasmon Nanolasing with Aluminum Nanoparticle Arrays
 
 
 subtitle: " [**_Journal of the Optical Society of America B_** 36, 7,  E104-E111 (2019) <br> 
