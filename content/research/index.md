@@ -9,7 +9,7 @@ We construct nanoscale lasers using novel light-emitting materials and plasmonic
 We develope creative approaches to realize multifunctional nanolasers. Through the discoveries of new optical modes – light-cone surface lattice resonances – in metal nanoparticle lattices, we have reported multi-color, in-plane emission from nanometer-scale thin laser devices. This study offers a design strategy to realize real-time tunable lasing colors by lattice rotation, which is not possible in conventional lasers. We realized a simultaneous red, green, and blue laser by combining a sandwiched lattice structure with a mixed dye solution. This work showed how lasing colors can be manipulated in compact architectures, which will be useful for display technologies, on-chip optical communications, and light-induced chemical reactions.
   
 
-![screen reader text](Moire.jpg "Soft matter engineering and living materials design for **human-machine interface**, **biomedical therapy** and **sustainable agriculture**")
+![screen reader text](White-laser.jpg "Soft matter engineering and living materials design for **human-machine interface**, **biomedical therapy** and **sustainable agriculture**")
 
 **Moiré Photonic Phenomena**
 
