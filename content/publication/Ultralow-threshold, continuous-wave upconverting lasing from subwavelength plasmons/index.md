@@ -11,7 +11,7 @@ authors:
 author_notes:
   
 
-publication: "*Nature Materials* 2023 "
+publication: "*Nature Materials* 2019 "
 abstract: 
 
 summary: "Angel Fernandez-Bravo, Danqing Wang, Edward S. Barnard, Ayelet Teitelboim, Cheryl Tajon, **Jun Guan**, George C. Schatz, Bruce E. Cohen, Emory M. Chan, P. James Schuck* & Teri W. Odom*  <br>
@@ -27,7 +27,7 @@ image:
   preview_only: false
   
  
-date: 2023-09-23T00:00:00Z
+date: 2019-09-23T00:00:00Z
 ---
 
 
