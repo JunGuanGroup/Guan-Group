@@ -10,7 +10,7 @@ We construct nanoscale lasers using novel light-emitting materials and plasmonic
 1. **J. Guan**, L.K. Sagar, R. Li, D. Wang, G. Bappi, W. Wang, N. Watkins, M.R. Bourgeois, L. Levina, F. Fan, S. Hoogland, O. Voznyy, J. Martins de Pina, R.D. Schaller, G.C. Schatz, E.H. Sargent, and T.W. Odom, “Quantum Dot-Plasmon Lasing with Controlled Polarization Patterns.” **_ACS Nano_** 14, 3426-3433 (2020).
 2. **J. Guan**, L.K. Sagar, R. Li, D. Wang, G. Bappi, N.E. Watkins, M.R. Bourgeois, L. Levina, F. Fan, S. Hoogland, O.Voznyy, J.M. de Pina, R.D. Schaller, G.C. Schatz, E.H. Sargent, and T.W. Odom, “Engineering Directionality in Quantum Dot Shell Lasing Using Plasmonic Lattices.” **_Nano Letters_** 20, 1468-1474 (2020).
 
-![screen reader text](QD-laser-ACSNano.png "Quantum dot plasmon lasers")
+![screen reader text](<img src="QD-laser-ACSNano.png" width="100px"> "Quantum dot plasmon lasers")
 
 
 <font size=6>**Plasmonic Metasurface Design**</font>
