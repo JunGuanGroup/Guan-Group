@@ -19,8 +19,6 @@ summary: "Jun Guan*,  Jingtian Hu, Yi Wang, Max J. H. Tan, George C. Schatz, and
 draft: false
 featured: false
 tags:
-  - Nanophotonics
-  - Surface Lattice Resonance
 
 
 image:
