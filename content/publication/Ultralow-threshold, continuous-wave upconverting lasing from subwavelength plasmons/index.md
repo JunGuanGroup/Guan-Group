@@ -25,7 +25,7 @@ image:
   filename: Fig.jpg
   focal_point: Smart
   preview_only: false
-
+  placement: 1
  
 date: 2023-09-23T00:00:00Z
 ---
