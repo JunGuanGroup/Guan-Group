@@ -14,7 +14,7 @@ publication: "*Nano letters* 2021 "
 abstract: 
 
 summary: "Alexander D Sample, **Jun Guan**, Jingtian Hu, Thaddeus Reese, Charles R Cherqui, Jeong-Eun Park, Francisco Freire-Fernández, Richard D Schaller, George C Schatz, Teri W Odom*  <br>
-[**_Nature Materials_** 18, 1172-1176 (2019). [[Link]](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c02740)"
+**_Nature Materials_** 18, 1172-1176 (2019). [[Link]](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c02740)"
 draft: false
 featured: false
 tags:

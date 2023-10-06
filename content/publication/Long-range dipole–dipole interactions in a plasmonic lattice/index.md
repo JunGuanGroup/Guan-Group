@@ -15,7 +15,7 @@ publication: "*Nano Lett* 2022 "
 abstract: 
 
 summary: "**Jun Guan, Tyler Sentz**, Xitlali Juarez, Ward Newman, Cristian Cortes, Teri W Odom, Zubin Jacob*  <br>
-[**_Nature Materials_** 18, 1172-1176 (2019). [[Link]](https://www.nature.com/articles/s41565-023-01320-7)"
+**_Nature Materials_** 18, 1172-1176 (2019). [[Link]](https://www.nature.com/articles/s41565-023-01320-7)"
 draft: false
 featured: false
 tags:

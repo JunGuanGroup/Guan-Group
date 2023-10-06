@@ -15,7 +15,7 @@ publication: "*Advanced Materials* 2021 "
 abstract: 
 
 summary: "Jun Guan, Ran Li, Xitlali G Juarez, Alexander D Sample, Yi Wang, George C Schatz, Teri W Odom*  <br>
-[**_Advanced Materials_** 2103262. [[Link]](https://www.nature.com/articles/s41565-023-01320-7)"
+**_Advanced Materials_** 2103262. [[Link]](https://www.nature.com/articles/s41565-023-01320-7)"
 draft: false
 featured: false
 tags:

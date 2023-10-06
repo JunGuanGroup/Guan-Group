@@ -16,7 +16,7 @@ publication: "*National Academy of Sciences* 2023 "
 abstract: 
 
 summary: "Shikai Deng, Jeong-Eun Park, Gyeongwon Kang, Jun Guan, Ran Li, George C Schatz, Teri W Odom*  <br>
-[**_Proceedings of the National Academy of Sciences_** 119 (22) e2202621119. [[Link]](https://www.pnas.org/doi/abs/10.1073/pnas.2202621119)"
+**_Proceedings of the National Academy of Sciences_** 119 (22) e2202621119. [[Link]](https://www.pnas.org/doi/abs/10.1073/pnas.2202621119)"
 draft: false
 featured: false
 tags:
@@ -28,7 +28,7 @@ image:
   preview_only: false
 
  
-date: 2023-05-23T00:00:00Z
+date: 2022-05-23T00:00:00Z
 ---
 
 

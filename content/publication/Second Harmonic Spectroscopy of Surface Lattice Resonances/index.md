@@ -15,7 +15,7 @@ publication: "*Nano Letters* 2019 "
 abstract: 
 
 summary: "David C. Hooper, Christian Kuppe, Danqing Wang, Weijia Wang, Jun Guan, Teri W. Odom, and Ventsislav K. Valev*  <br>
-[**_Nano Letters_** 19, 1, 165-172 (2019). [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.8b03574)"
+**_Nano Letters_** 19, 1, 165-172 (2019). [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.8b03574)"
 draft: false
 featured: false
 tags:

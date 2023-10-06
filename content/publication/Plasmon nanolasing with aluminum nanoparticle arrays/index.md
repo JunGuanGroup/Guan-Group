@@ -15,7 +15,7 @@ publication: "*Journal of the Optical Society of America B* 2019 "
 abstract: 
 
 summary: "Ran Li, Danqing Wang, **Jun Guan**, Weijia Wang, Xianyu Ao, George C. Schatz, Richard Schaller, and Teri W. Odom*  <br>
-[**_Journal of the Optical Society of America B_** 36, 7,  E104-E111 (2019)). [[Link]](https://opg.optica.org/josab/abstract.cfm?uri=josab-36-7-e104)"
+**_Journal of the Optical Society of America B_** 36, 7,  E104-E111 (2019)). [[Link]](https://opg.optica.org/josab/abstract.cfm?uri=josab-36-7-e104)"
 draft: false
 featured: false
 tags:

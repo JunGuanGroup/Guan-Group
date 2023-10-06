@@ -15,7 +15,7 @@ publication: "*Advanced Functional Materials* 2019 "
 abstract: 
 
 summary: "Yuanhai Lin, Danqing Wang, Jingtian Hu, Jianxi Liu, Weijia Wang, **Jun Guan**, Richard D. Schaller, Teri W. Odom*  <br>
-[**_Advanced Functional Materials_** 29, 42, 1904157 (2019). [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201904157?saml_referrer)"
+**_Advanced Functional Materials_** 29, 42, 1904157 (2019). [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201904157?saml_referrer)"
 draft: false
 featured: false
 tags:

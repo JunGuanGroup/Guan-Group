@@ -15,7 +15,7 @@ publication: "*Accounts of Chemical Research* 2019 "
 abstract: 
 
 summary: "Danqing Wang, **Jun Guan**, Jingtian Hu, Marc R. Bourgeois, and Teri W. Odom*  <br>
-[**_Accounts of Chemical Research_** 52, 11, 2997–3007 (2019). [[Link]](https://pubs.acs.org/doi/abs/10.1021/acs.accounts.9b00345)"
+**_Accounts of Chemical Research_** 52, 11, 2997–3007 (2019). [[Link]](https://pubs.acs.org/doi/abs/10.1021/acs.accounts.9b00345)"
 draft: false
 featured: false
 tags:

@@ -15,7 +15,7 @@ publication: "*ACS nano* 2021 "
 abstract: 
 
 summary: "**Jun Guan**, Marc R Bourgeois, Ran Li, Jingtian Hu, Richard D Schaller, George C Schatz, Teri W Odom*  <br>
-[**_Nature Materials_** 18, 1172-1176 (2019). [[Link]](https://pubs.acs.org/doi/abs/10.1021/acsnano.1c00449)"
+**_Nature Materials_** 18, 1172-1176 (2019). [[Link]](https://pubs.acs.org/doi/abs/10.1021/acsnano.1c00449)"
 draft: false
 featured: false
 tags:

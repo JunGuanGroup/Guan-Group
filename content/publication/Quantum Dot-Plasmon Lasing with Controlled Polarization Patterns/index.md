@@ -15,7 +15,7 @@ publication: "*ACS Nano* 2020 "
 abstract: 
 
 summary: "**Jun Guan**, Laxmi Kishore Sagar, Ran Li, Danqing Wang, Golam Bappi, Weijia Wang, Nicolas Watkins, Marc R. Bourgeois, Larissa Levina, Fengjia Fan, Sjoerd Hoogland, Oleksandr Voznyy, Joao Martins de Pina, Richard D. Schaller, George C. Schatz, Edward H. Sargent, and Teri W. Odom*  <br>
-[**_ACS Nano_** 14, 3, 3426–3433 (2020). [[Link]](https://pubs.acs.org/doi/full/10.1021/acsnano.9b09466)"
+**_ACS Nano_** 14, 3, 3426–3433 (2020). [[Link]](https://pubs.acs.org/doi/full/10.1021/acsnano.9b09466)"
 draft: false
 featured: false
 tags:

@@ -15,7 +15,7 @@ publication: "*ACS Photonics* 2023 "
 abstract: 
 
 summary: "Zhenshan Zhai, Zhuang Li, Yixuan Du, Xin Gan, Linye He, Xiaotian Zhang, Yufeng Zhou, Jun Guan, Yangjian Cai, Xianyu Ao*  <br>
-[**_ACS Photonics_** 2023, 10, 2, 437–446. [[Link]](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01496)"
+**_ACS Photonics_** 2023, 10, 2, 437–446. [[Link]](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01496)"
 draft: false
 featured: false
 tags:
