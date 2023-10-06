@@ -1,0 +1,37 @@
+---
+title: Long-range dipole–dipole interactions in a plasmonic lattice
+
+
+subtitle: " [**_Nano letters_** 2022, 22, 1, 22–28 <br> 
+Ashwin K Boddeti, **Jun Guan**, Tyler Sentz, Xitlali Juarez, Ward Newman, Cristian Cortes, Teri W Odom, Zubin Jacob* ](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c02835)"
+publication_types:
+  - "2"
+authors: 
+  
+author_notes:
+  
+
+publication: "*Nano Lett* 2022 "
+abstract: 
+
+summary: "**Jun Guan, Tyler Sentz**, Xitlali Juarez, Ward Newman, Cristian Cortes, Teri W Odom, Zubin Jacob*  <br>
+[**_Nature Materials_** 18, 1172-1176 (2019). [[Link]](https://www.nature.com/articles/s41565-023-01320-7)"
+draft: false
+featured: false
+tags:
+
+
+image:
+  filename: Fig.jpg
+  focal_point: Smart
+  preview_only: false
+
+ 
+date: 2022-10-21T00:00:00Z
+---
+
+
+
+
+
+
