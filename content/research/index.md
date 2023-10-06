@@ -1,6 +1,6 @@
 '<font size=8>**Research**</font>'
 
-We focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions and to enable optical devices with new functionalities.
+We focus on the design of hybrid nanophotonic architectures to manipulate light-matter interactions and to enable optical devices with new functionalities.
 
 **Quantum-dot Plasmon Lasers**
 
