@@ -1,4 +1,4 @@
-'<font size=8>**Research**</font>'
+ <font size=8>**Research**</font>
 
 We focus on the design of hybrid nanophotonic architectures to manipulate light-matter interactions and to enable optical devices with new functionalities.
 
