@@ -3,7 +3,7 @@ title: Bowen Han 韩博文
 role: 'Ph.D. Student bowenhan@link.cuhk.edu.cn'
 avatar_filename: avatar-BowenHan.jpg
 organizations:
-  - name: CUHK-Shenzhen
+  - name: The Chinese University of Hong Kong, Shenzhen
     url: ""
 superuser: false
 authors:
