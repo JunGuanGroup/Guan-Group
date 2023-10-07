@@ -90,8 +90,8 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search: wowchemy
-    provider: 
+  search:
+    provider: 'wowchemy'
     algolia:
       app_id: ''
       api_key: ''
