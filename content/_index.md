@@ -12,7 +12,7 @@ sections:
         Group
         
       image:
-        filename: Moire.jpg
+        filename: Bilayer-02.png
       text: |
         <br>
         
