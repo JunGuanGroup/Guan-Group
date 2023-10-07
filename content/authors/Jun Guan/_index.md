@@ -10,9 +10,8 @@ authors:
   - Jun Guan
 bio: Physics, Materials
 interests:
-  - Nanophotonics
-  - Light-matter interactions
-  - Plasmonic lasers
+
+
 social:
   - icon: envelope
     icon_pack: fas
