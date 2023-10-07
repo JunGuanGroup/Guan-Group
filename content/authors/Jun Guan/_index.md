@@ -1,6 +1,6 @@
 ---
 title: 'Jun Guan 管君'
-role: 'Assistant Professor guanjun@cuhk.edu.cn'
+role: 'Assistant Professor <br> guanjun@cuhk.edu.cn'
 avatar_filename: avatar-junguan.png
 organizations:
   - name: CUHK-Shenzhen
@@ -24,10 +24,10 @@ education:
   courses:
     - course: PhD in Applied Physics
       institution: Northwestern University
-      year: 2021
+      year: 2016 - 2021
     - course: B.S. in Physics
       institution: " Sichuan University"
-      year: 2016
+      year: 2012 - 2016
 email: "guanjun@cuhk.edu.cn"
 user_groups:
   - Principal Investigators
