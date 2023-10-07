@@ -2,7 +2,7 @@
 title: Engineering Directionality in Quantum Dot Shell Lasing Using Plasmonic Lattices
 
 
-subtitle: " [**_Nano Letters_** 20, 2, 1468–1474 (2020) <br> 
+subtitle: " [**_Nano Letters_** 20, 1468–1474 (2020) <br> 
 **Jun Guan**, Laxmi Kishore Sagar, Ran Li, Danqing Wang, Golam Bappi, Nicolas E. Watkins, Marc R. Bourgeois, Larissa Levina, Fengjia Fan, Sjoerd Hoogland, Oleksandr Voznyy, Joao Martins de Pina, Richard D. Schaller, George C. Schatz, Edward H. Sargent, and Teri W. Odom* ](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b05342)"
 publication_types:
   - "2"
@@ -15,7 +15,7 @@ publication: "*Nano Letters* 2020 "
 abstract: 
 
 summary: "**Jun Guan**, Laxmi Kishore Sagar, Ran Li, Danqing Wang, Golam Bappi, Nicolas E. Watkins, Marc R. Bourgeois, Larissa Levina, Fengjia Fan, Sjoerd Hoogland, Oleksandr Voznyy, Joao Martins de Pina, Richard D. Schaller, George C. Schatz, Edward H. Sargent, and Teri W. Odom*  <br>
-**_Nano Letters_** 20, 2, 1468–1474 (2020). [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b05342)"
+**_Nano Letters_** 20, 1468–1474 (2020). [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b05342)"
 draft: false
 featured: false
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Bowen Han 韩博文
-role: 'PH.D. Student 223010093@link.cuhk.edu.cn'
+role: 'Ph.D. Student 223010093@link.cuhk.edu.cn'
 avatar_filename: avatar-BowenHan.jpg
 organizations:
   - name: CUHK-Shenzhen

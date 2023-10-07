@@ -2,7 +2,7 @@
 title: Ultranarrow Plasmon Resonances from Annealed Nanoparticle Lattices
 
 
-subtitle: " [**_Proceedings of the National Academy of Sciences_** 117, (38), 23380-23384 (2020) <br> 
+subtitle: " [**_Proceedings of the National Academy of Sciences_** 117, 23380-23384 (2020) <br> 
 Shikai Deng, Ran Li, Jeong-Eun Park, **Jun Guan**, Priscilla Choo, Jingtian Hu, Paul J. M. Smeets and Teri W. Odom* ](https://www.pnas.org/doi/full/10.1073/pnas.2008818117)"
 publication_types:
   - "2"
@@ -15,7 +15,7 @@ publication: "*Proceedings of the National Academy of Sciences* 2020 "
 abstract: 
 
 summary: "Shikai Deng, Ran Li, Jeong-Eun Park, **Jun Guan**, Priscilla Choo, Jingtian Hu, Paul J. M. Smeets and Teri W. Odom*  <br>
-**_Proceedings of the National Academy of Sciences_** 117, (38), 23380-23384 (2020). [[Link]](https://www.pnas.org/doi/full/10.1073/pnas.2008818117)"
+**_Proceedings of the National Academy of Sciences_** 117, 23380-23384 (2020). [[Link]](https://www.pnas.org/doi/full/10.1073/pnas.2008818117)"
 draft: false
 featured: false
 tags:
