@@ -36,7 +36,7 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jun Guan. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -90,8 +90,8 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: wowchemy
+  search: wowchemy
+    provider: 
     algolia:
       app_id: ''
       api_key: ''

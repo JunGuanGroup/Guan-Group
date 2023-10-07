@@ -16,15 +16,12 @@ sections:
         city: Shenzhen
         region: Guangdong Province
         postcode: '518172'
-        country: United States
+        country: China
         country_code: CN
       coordinates:
         latitude: '22.69229'
         longitude: '114.21005'
-      
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+    
       
       #contact_links:
       #  - icon: comments
