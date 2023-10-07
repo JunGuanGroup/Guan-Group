@@ -21,6 +21,12 @@ social:
     link: https://scholar.google.com/citations?user=LJ-DT7UAAAAJ&hl=en
 education:
   courses:
+    - course: Postdoctoral Associate
+      institution: Massachusetts Institute of Technology
+      year: 2022 - 2023
+    - course: Postdoctoral Scholar
+      institution: Northwestern University
+      year: 2021 - 2022
     - course: Ph.D. in Applied Physics
       institution: Northwestern University
       year: 2016 - 2021
