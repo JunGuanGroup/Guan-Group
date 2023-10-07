@@ -21,9 +21,7 @@ sections:
       coordinates:
         latitude: '22.69229'
         longitude: '114.21005'
-      
-      office_hours:
-        - ''
+    
       
       #contact_links:
       #  - icon: comments
