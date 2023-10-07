@@ -1,6 +1,6 @@
 ---
 title: Zichun Bai 白子淳
-role: 'M.Phil. Student 223015073@link.cuhk.edu.cn'
+role: 'M.Phil. Student zichunbai@link.cuhk.edu.cn'
 avatar_filename: avatar-ZichunBai.png
 organizations:
   - name: CUHK-Shenzhen
@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 223015073@link.cuhk.edu.cn
+    link: zichunbai@link.cuhk.edu.cn
    
 education:
   courses:
@@ -26,7 +26,7 @@ education:
     - course: B.Eng. in Material Science and Engineering
       institution: "East China University of Science and Technology"
       year: 2019 - 2023
-email: "223015073@link.cuhk.edu.cn"
+email: "zichunbai@link.cuhk.edu.cn"
 user_groups:
   - Students
 last_name: Bai

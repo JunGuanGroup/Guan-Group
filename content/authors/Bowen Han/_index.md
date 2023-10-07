@@ -1,6 +1,6 @@
 ---
 title: Bowen Han 韩博文
-role: 'Ph.D. Student 223010093@link.cuhk.edu.cn'
+role: 'Ph.D. Student bowenhan@link.cuhk.edu.cn'
 avatar_filename: avatar-BowenHan.jpg
 organizations:
   - name: CUHK-Shenzhen
@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 223010093@link.cuhk.edu.cn
+    link: bowenhan@link.cuhk.edu.cn
    
 education:
   courses:
@@ -26,7 +26,7 @@ education:
     - course: M.Eng. in Solid Mechanics
       institution: "Tianjin University"
       year: 2020 - 2023
-email: "223010093@link.cuhk.edu.cn"
+email: "bowenhan@link.cuhk.edu.cn"
 user_groups:
   - Students
 last_name: Han
