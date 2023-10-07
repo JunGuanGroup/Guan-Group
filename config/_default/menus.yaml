@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: publication
     weight: 40
-  - name: Opening
+  - name: Openings
     url: opening
     weight: 50
   - name: Contact
