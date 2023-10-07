@@ -1,5 +1,5 @@
 # **Openings**
-<font color=red>We are Actively Looking for Candidates to Join Our Team!</font>
+We are Actively Looking for Candidates to Join Our Team!
 
 ## **Opportunities for Ph.D. and M.Phil. Students**
 
