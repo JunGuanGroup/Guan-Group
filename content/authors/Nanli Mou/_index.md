@@ -1,6 +1,6 @@
 ---
 title: Nanli Mou 牟南历
-role: 'postdoc mounanli@cuhk.edu.cn'
+role: 'Postdoc mounanli@cuhk.edu.cn'
 avatar_filename: avatar-NanliMou.jpg
 organizations:
   - name: CUHK-Shenzhen
@@ -20,7 +20,7 @@ social:
    
 education:
   courses:
-    - course: PH.D. in Material Science and Engineering
+    - course: Ph.D. in Material Science and Engineering
       institution: "Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of
 Sciences, China"
       year: 2014 - 2020
@@ -29,7 +29,7 @@ Sciences, China"
       year: 2010 - 2014
 email: "mounanli@link.cuhk.edu.cn"
 user_groups:
-  - postdoc
+  - Researchers
 last_name: Mou
 first_name: Nanli
 ---
