@@ -10,7 +10,7 @@ sections:
       title: Contact
       
       email: guanjun@cuhk.edu.cn
-      phone: 888 888 88 88
+      phone: +86 (0755)23519738
       address:
         street: 2001 Longxiang Boulevard
         city: Shenzhen
