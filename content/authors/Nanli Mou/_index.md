@@ -3,7 +3,7 @@ title: Nanli Mou 牟南历
 role: 'Postdoc mounanli@cuhk.edu.cn'
 avatar_filename: avatar-NanliMou.jpg
 organizations:
-  - name: CUHK-Shenzhen
+  - name: The Chinese University of Hong Kong, Shenzhen
     url: ""
 superuser: false
 authors:
@@ -21,8 +21,7 @@ social:
 education:
   courses:
     - course: Ph.D. in Material Science and Engineering
-      institution: "Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of
-Sciences, China"
+      institution: "Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, China"
       year: 2014 - 2020
     - course:BA in Optoelectronic Science and Technology
       institution: "Sichuan University, China"

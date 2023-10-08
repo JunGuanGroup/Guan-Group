@@ -1,9 +1,9 @@
 ---
 title: Delin Zhang 张德邻
-role: 'M.Phil. Student delinzhang@link.cuhk.edu.cn'
+role: 'M.Phil. Student delinzhang1@link.cuhk.edu.cn'
 avatar_filename: avatar-DelinZ.jpg
 organizations:
-  - name: CUHK-Shenzhen
+  - name: The Chinese University of Hong Kong, Shenzhen
     url: ""
 superuser: false
 authors:
@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: delinzhang@link.cuhk.edu.cn
+    link: delinzhang1@link.cuhk.edu.cn
    
 education:
   courses:
@@ -26,7 +26,7 @@ education:
     - course: B.Eng. in Physics
       institution: "Central China Normal University"
       year: 2019 - 2023
-email: "delinzhang@link.cuhk.edu.cn"
+email: "delinzhang1@link.cuhk.edu.cn"
 user_groups:
   - Students
 last_name: Zhang
