@@ -3,7 +3,7 @@ We are Actively Looking for Candidates to Join Our Team!
 
 ## **Opportunities for Ph.D. and M.Phil. Students**
 
-We have a few openings available for highly qualified and motivated graduate students. Students with a strong interest in _nanophotonics, plasmonics, nanofabrication, or lasers_ are welcome to apply. Research experience in related fields would be a bonus. Please email Prof. Guan (guanjun@cuhk.edu.cn) with your CV, and an unofficial transcript with the subject “Ph.D./M.Phil. Application - your name - your current institution”. 
+We have a few openings available for highly qualified and motivated graduate students. Students with a strong interest in _nanophotonics, plasmonics, nanofabrication, or lasers_ are welcome to apply. Research experience in related fields would be a bonus. Please email Prof. Guan (guanjun@cuhk.edu.cn) with your CV and academic transcripts with the subject “Ph.D./M.Phil. Application - your name - your current institution”. 
 
 
 ## **Opportunities for Postdoctoral Scholars**

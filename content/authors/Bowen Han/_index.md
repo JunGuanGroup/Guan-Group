@@ -20,7 +20,7 @@ social:
    
 education:
   courses:
-    - course: PH.D. in Material Science and Engineering
+    - course: Ph.D. in Material Science and Engineering
       institution: "The Chinese University of Hong Kong, Shenzhen"
       year: 2023 - now
     - course: M.Eng. in Solid Mechanics
