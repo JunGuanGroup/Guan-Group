@@ -10,8 +10,8 @@ authors:
   - Delin Zhang
 bio:  Physics
 interests:
-  - topological photonics
-  - surface plasmon
+  - Topological photonics
+  - Surface plasmon
   - Plasmonic lasers
 social:
   - icon: envelope
