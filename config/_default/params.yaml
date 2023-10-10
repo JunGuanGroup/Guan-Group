@@ -47,7 +47,7 @@ footer:
   copyright:
     notice: '© {year} Jun Guan. All rights reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
