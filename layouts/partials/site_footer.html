@@ -15,7 +15,8 @@
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
   </p>
 
-
+  {{/* Display copyright license. */}}
+  {{ partial "site_footer_license" . }}
 
   <p class="powered-by">
     {{ if not site.Params.i_am_a_sponsor }}
