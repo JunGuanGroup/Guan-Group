@@ -1,6 +1,6 @@
 ---
 title: Bowen Han 韩博文
-role: 'Ph.D. Student bowenhan@link.cuhk.edu.cn'
+role: 'Ph.D. Student bowenhan1@link.cuhk.edu.cn'
 avatar_filename: avatar-BowenHan-resized.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -26,7 +26,7 @@ education:
     - course: M.Eng. in Solid Mechanics
       institution: "Tianjin University"
       year: 2020 - 2023
-email: "bowenhan@link.cuhk.edu.cn"
+email: "bowenhan1@link.cuhk.edu.cn"
 user_groups:
   - Students
 last_name: Han
