@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jun Guan. This work is licensed under {license}'
+    notice: '© {year} Jun Guan. All rights reserved.'
     license:
       enable: true
       allow_derivatives: false
