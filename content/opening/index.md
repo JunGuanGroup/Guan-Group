@@ -1,4 +1,5 @@
 # **Openings**
+
 We are Actively Looking for Candidates to Join Our Team!
 
 ## **Opportunities for Ph.D. and M.Phil. Students**
@@ -20,6 +21,7 @@ We welcome students with a strong interest in research to join our group for exp
 ## **管君课题组2024年研究型硕士、博士招生**
 
 #### 【招生信息】
+
 1. 招生计划：
    * 博士生1-2名，提供全额奖学金。
    * 硕士生1-2名，学费11.5万/年，学制两年，优秀硕士生可以在第一年或第二年结束时转博。
@@ -31,6 +33,7 @@ We welcome students with a strong interest in research to join our group for exp
 3. 硕博项目详情见学校官网：[https://sse-mphil-phd.cuhk.edu.cn/](https://sse-mphil-phd.cuhk.edu.cn/)
 
 #### 【招生要求】
+
 1. 专业背景：物理、光电、材料、电子工程、化学等相关专业。GPA 3.2/4.0以上，或平均分80/100以上
 2. 英语成绩：申请阶段可以暂不提供。正式入学之前需提供英文水平证明（托福不低于79分或雅思不低于6.5分），境外英语教学国家学位免英语成绩
 3. 将优先考虑具备以下条件的申请者：
@@ -40,6 +43,7 @@ We welcome students with a strong interest in research to join our group for exp
     * 编程能力强
 
 #### 【申请程序】
+
 1. 将个人简历（包含本科阶段专业排名）、成绩单、英语成绩（托福/雅思/四六级）、其他相关材料发送至邮箱guanjun@cuhk.edu.cn，邮件标题注明：硕/博士申请-姓名-毕业学校。
 2. 申请材料若通过初审，将安排视频面试，导师与学生双向选择。
 3. 经导师确认后，在官网正式申请并标注导师姓名，学院学术委员会审核通过后发放录取通知。申请长期开放，招满为止。
