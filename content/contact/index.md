@@ -52,7 +52,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Campus Map.jpg
+          filename: Campus Map resized.jpg
           filters:
             brightness: 1
           parallax: false
