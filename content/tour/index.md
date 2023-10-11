@@ -28,21 +28,7 @@ sections:
               brightness: 1
           position: center
           color: '#555'
-      - title: Guan Group
-        content: 
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../opening/
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
