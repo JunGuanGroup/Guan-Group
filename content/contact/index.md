@@ -52,11 +52,11 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Campus Map resized.jpg
+          filename: Campus Map.jpg
           filters:
             brightness: 1
           parallax: false
-          position: center
+          position: contain
           size: cover
           text_color_light: true
       spacing:
