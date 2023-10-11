@@ -22,6 +22,9 @@ main:
   - name: Openings
     url: opening
     weight: 50
+  - name: Gallery
+    url: tour
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
