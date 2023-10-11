@@ -15,7 +15,7 @@ sections:
           image:
             filename: CUHKSZ-1.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: right
           color: '#666'
       - title: 
@@ -25,7 +25,7 @@ sections:
           image:
             filename: CUHKSZ-2.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: center
           color: '#555'
       - title: Guan Group
