@@ -1,7 +1,6 @@
 ---
 title: Research
 ---
-# **Research**
 
 ## **Quantum-dot Plasmon Lasers**
 We construct nanoscale lasers using novel light-emitting materials and plasmonic cavities. By near-field coupling of colloidal quantum dots (QDs) to metal nanoparticle lattices, we realized compact lasers with submicron device thicknesses. In contrast to current techniques that rely on bulky optical elements to achieve laser polarization control, this QD-plasmon hybrid material system can serve as a nanoscale light source to generate desired lasing polarization patterns. We also revealed that high-symmetry points in the reciprocal space of plasmonic nanoparticle lattices can support lasing at well-defined angles. By changing the periodicity of the plasmonic lattices or the thickness of the QD film, we engineered the optical band structure for controllable lasing direction. Our work offers critical insights into how to manipulate the interaction between quantum emitters and optical cavities at the nanoscale, and offers prospects for applications in quantum communication and information.
