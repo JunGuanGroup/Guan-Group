@@ -32,7 +32,10 @@ We welcome students with a strong interest in research to join our group for exp
    * 多层莫尔光子超晶格中的新型光学现象研究
    * 可见光波段拓扑光子晶格设计
    * 钙钛矿纳米晶激光器研究
-3. 硕博项目详情见学校官网：[https://sse-mphil-phd.cuhk.edu.cn/](https://sse-mphil-phd.cuhk.edu.cn/)
+3. 招生专业：
+   * 物理学
+   * 材料科学与工程
+4. 硕博项目详情见学校官网：[https://sse-mphil-phd.cuhk.edu.cn/](https://sse-mphil-phd.cuhk.edu.cn/)
 
 #### 【招生要求】
 
