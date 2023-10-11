@@ -8,28 +8,28 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 
+        content: 
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: CUHKSZ-1.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 
+        content: 
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: CUHKSZ-2.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Guan Group
+        content: 
         align: right
         background:
           image:
@@ -42,7 +42,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: ../opening/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
