@@ -20,7 +20,7 @@ We welcome students with a strong interest in research to join our group for exp
 
 -----------------------------------
 
-## **管君课题组2024年研究型硕士、博士招生**
+## **管君课题组2024级研究型硕士、博士招生**
 
 #### 【招生信息】
 
