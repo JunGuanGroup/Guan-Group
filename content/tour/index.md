@@ -48,6 +48,16 @@ sections:
               brightness: 1
           position: center
           color: '#555'
+      - title: 
+        content: 
+        align: left
+        background:
+          image:
+            filename: CUHKSZ-5.jpg
+            filters:
+              brightness: 1
+          position: center
+          color: '#555'
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
