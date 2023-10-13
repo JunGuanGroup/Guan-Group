@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: CUHKSZ-1.jpg
+            filename: CUHKSZ-2.jpg
             filters:
               brightness: 1
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: CUHKSZ-2.jpg
+            filename: CUHKSZ-1.jpg
             filters:
               brightness: 1
           position: center
