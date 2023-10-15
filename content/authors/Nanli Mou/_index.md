@@ -28,7 +28,7 @@ education:
       year: 2010 - 2014
 email: "mounanli@link.cuhk.edu.cn"
 user_groups:
-  - Researchers
+  - Postdoctoral Scholar
 last_name: Mou
 first_name: Nanli
 ---

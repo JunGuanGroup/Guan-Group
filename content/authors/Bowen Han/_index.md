@@ -28,7 +28,7 @@ education:
       year: 2020 - 2023
 email: "bowenhan1@link.cuhk.edu.cn"
 user_groups:
-  - Students
+  - Graduate Students
 last_name: Han
 first_name: Bowen
 ---
