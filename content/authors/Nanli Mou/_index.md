@@ -1,6 +1,6 @@
 ---
 title: Nanli Mou 牟南历
-role: 'Postdoctoral Scholar mounanli@cuhk.edu.cn'
+role: 'Postdoctoral Scholar  <br>  mounanli@cuhk.edu.cn'
 avatar_filename: avatar-NanliMou-resized.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
