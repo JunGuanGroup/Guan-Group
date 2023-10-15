@@ -1,6 +1,6 @@
 ---
 title: 'Jun Guan 管君'
-role: 'Assistant Professor guanjun@cuhk.edu.cn'
+role: 'Assistant Professor  <br>  guanjun@cuhk.edu.cn'
 avatar_filename: avatar-junguan.png
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -35,7 +35,7 @@ education:
       year: 2012 - 2016
 email: "guanjun@cuhk.edu.cn"
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 last_name: Guan
 first_name: Jun
 ---

@@ -28,7 +28,7 @@ education:
       year: 2019 - 2023
 email: "zichunbai@link.cuhk.edu.cn"
 user_groups:
-  - Students
+  - Graduate Students
 last_name: Bai
 first_name: Zichun
 ---

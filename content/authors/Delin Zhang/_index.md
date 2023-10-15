@@ -1,6 +1,6 @@
 ---
 title: Delin Zhang 张德邻
-role: 'M.Phil. Student delinzhang1@link.cuhk.edu.cn'
+role: 'M.Phil. Student  <br>  delinzhang1@link.cuhk.edu.cn'
 avatar_filename: avatar-DelinZ.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -28,7 +28,7 @@ education:
       year: 2019 - 2023
 email: "delinzhang1@link.cuhk.edu.cn"
 user_groups:
-  - Students
+  - Graduate Students
 last_name: Zhang
 first_name: Delin
 ---
