@@ -35,7 +35,7 @@ education:
       year: 2012 - 2016
 email: "guanjun@cuhk.edu.cn"
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 last_name: Guan
 first_name: Jun
 ---
