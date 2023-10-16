@@ -11,7 +11,7 @@ We have a few openings available for highly qualified and motivated graduate stu
 
 ## **Postdoctoral Scholars**
 
-There are a few projects for postdoctoral scholars in _plasmonic lasers, topological plasmonic lattices, quantum plasmonics_. Research experience in _nanophotonics, lasers, topological photonics, and quantum optics_ would be a bonus. Please email Prof. Guan (guanjun@cuhk.edu.cn) with your CV.
+There are a few projects for postdoctoral scholars in _plasmonic lasers, topological plasmonic lattices, quantum plasmonics_. Research experience in _nanophotonics, lasers, topological photonics, or quantum optics_ would be a bonus. Please email Prof. Guan (guanjun@cuhk.edu.cn) with your CV.
 
 ## **Undergraduate Students**
 
