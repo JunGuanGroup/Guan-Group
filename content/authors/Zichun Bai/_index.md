@@ -1,7 +1,7 @@
 ---
 title: Zichun Bai 白子淳
 role: 'M.Phil. Student  <br>  zichunbai@link.cuhk.edu.cn'
-avatar_filename: avatar-ZichunBai-resized.png
+avatar_filename: avatar-ZichunBai-resized.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
     url: ""
