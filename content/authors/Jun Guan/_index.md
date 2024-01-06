@@ -38,6 +38,7 @@ user_groups:
   - Principal Investigator
 last_name: Guan
 first_name: Jun
+weight: 10
 ---
 Jun Guan (管君) is an assistant professor in the School of Science and Engineering at the Chinese University of Hong Kong, Shenzhen. She obtained her bachelor’s degree in physics from Sichuan University in 2016. As part of her undergraduate studies, she was a visiting student at the University of Oxford (Aug 2015 – July 2016) and the Hong Kong University of Science and Technology (Feb 2015 – May 2015). She obtained her Ph.D. degree in applied physics at Northwestern University in 2021 under the supervision of Professor Teri W. Odom and Professor George C. Schatz. After graduation, she worked as a postdoctoral scholar at Northwestern University (2021-2022, advisor: Teri W. Odom) and then at the Massachusetts Institute of Technology (2022-2023, advisor: Vladimir Bulović). 
 
