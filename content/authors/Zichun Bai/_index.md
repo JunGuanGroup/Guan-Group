@@ -31,5 +31,4 @@ user_groups:
   - Graduate Students
 last_name: Bai
 first_name: Zichun
-weight: 30
 ---

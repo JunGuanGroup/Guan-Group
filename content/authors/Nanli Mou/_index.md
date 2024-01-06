@@ -31,5 +31,4 @@ user_groups:
   - Postdoctoral Scholar
 last_name: Mou
 first_name: Nanli
-weight: 10
 ---

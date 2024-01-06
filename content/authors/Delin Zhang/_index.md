@@ -31,5 +31,4 @@ user_groups:
   - Graduate Students
 last_name: Zhang
 first_name: Delin
-weight: 20
 ---
