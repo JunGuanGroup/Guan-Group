@@ -31,4 +31,5 @@ user_groups:
   - Graduate Students
 last_name: Sun
 first_name: Yuxiang
+weight: 40
 ---
