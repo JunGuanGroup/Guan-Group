@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jun Guan. All rights reserved.'
+    notice: '© {year} Jun Guan Group'
     license:
       enable: false
       allow_derivatives: false
