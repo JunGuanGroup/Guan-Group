@@ -23,7 +23,7 @@ education:
     - course: M.Phil. in Physics
       institution: "The Chinese University of Hong Kong, Shenzhen"
       year: 2023 - now
-    - course: B.Eng. in Physics
+    - course: B.S. in Physics
       institution: "Central China Normal University"
       year: 2019 - 2023
 email: "delinzhang1@link.cuhk.edu.cn"
@@ -31,4 +31,5 @@ user_groups:
   - Graduate Students
 last_name: Zhang
 first_name: Delin
+weight: 20
 ---

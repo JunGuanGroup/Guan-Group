@@ -31,4 +31,5 @@ user_groups:
   - Graduate Students
 last_name: Han
 first_name: Bowen
+weight: 10
 ---
