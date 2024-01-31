@@ -1,6 +1,6 @@
 ---
 title: Yuxiang Sun 孙宇翔
-role: 'M.Phil. Student  <br>  223015142@link.cuhk.edu.cn'
+role: 'M.Phil. Student  <br> yuxiangsun@link.cuhk.edu.cn'
 avatar_filename: avatar-Sunyuxiang-resized.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 223015142@link.cuhk.edu.cn
+    link: yuxiangsun@link.cuhk.edu.cn
    
 education:
   courses:
@@ -26,7 +26,7 @@ education:
     - course: B.Eng. in Mechanical Design Manufacturing and Automation
       institution: "Shenzhen Technology University"
       year: 2019 - 2023
-email: "223015142@link.cuhk.edu.cn"
+email: "yuxiangsun@link.cuhk.edu.cn"
 user_groups:
   - Graduate Students
 last_name: Sun
