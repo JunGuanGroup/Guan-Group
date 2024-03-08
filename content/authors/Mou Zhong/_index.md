@@ -31,5 +31,5 @@ user_groups:
   - Graduate Students
 last_name: Zhong
 first_name: Mou
-weight: 10
+weight: 20
 ---
