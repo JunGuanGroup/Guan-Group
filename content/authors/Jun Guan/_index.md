@@ -18,7 +18,7 @@ social:
     link: guanjun@cuhk.edu.cn
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=LJ-DT7UAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=LJ-DT7UAAAAJ&hl=e
 education:
   courses:
     - course: Postdoctoral Associate
