@@ -14,7 +14,7 @@ author_notes:
 publication: "*Nano Letters* 2024 "
 abstract: 
 
-summary: "Guanyue Zhao, Xinyu Gao, Yufeng Zhou, Mengyuan Song, Yixuan Du, Zhuang Li, **Jun Guan* **, Yangjian Cai*, and Xianyu Ao*  <br>
+summary: "Guanyue Zhao, Xinyu Gao, Yufeng Zhou, Mengyuan Song, Yixuan Du, Zhuang Li, **Jun Guan***, Yangjian Cai*, and Xianyu Ao*  <br>
 **_Nano Letters_** (2024). [[Link]](https://https://pubs.acs.org/doi/10.1021/acs.nanolett.3c05038)"
 draft: false
 featured: false
