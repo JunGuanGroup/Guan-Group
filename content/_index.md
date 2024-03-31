@@ -16,6 +16,6 @@ sections:
       text: |
         <br>
         
-        The **Guan Group @ CUHK-Shenzhen** focuses on the design of plasmonic nanoparticle lattices to manipulate light-matter interactions and to enable laser devices with engineered functionalities.
+        The **Guan Group @ CUHK-Shenzhen** focuses on the design of plasmonic nanoparticle lattices to manipulate light-matter interactions and to enable laser devices with diverse functionalities.
 
 ---
