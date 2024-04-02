@@ -2,7 +2,7 @@
 title: Unidirectional Lasing from Mirror-Coupled Dielectric Lattices
 
 
-subtitle: " [**_Nano Letters_**(2024) <br> 
+subtitle: " [**_Nano Letters_** 24, 3378–3385 (2024) <br> 
 Guanyue Zhao, Xinyu Gao, Yufeng Zhou, Mengyuan Song, Yixuan Du, Zhuang Li, **Jun Guan***, Yangjian Cai*, and Xianyu Ao* ](https://https://pubs.acs.org/doi/10.1021/acs.nanolett.3c05038)"
 publication_types:
   - "2"
