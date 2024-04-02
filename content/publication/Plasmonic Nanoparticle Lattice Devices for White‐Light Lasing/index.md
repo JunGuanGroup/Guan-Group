@@ -27,7 +27,7 @@ image:
   preview_only: false
 
  
-date: 2023-08-1T00:00:00Z
+date: 2023-08-01T00:00:00Z
 ---
 
 
