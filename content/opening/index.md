@@ -35,7 +35,7 @@ We welcome undergraduate students with a strong interest in nanophotonics resear
 3. 鼓励符合条件者申请各类基金、项目、人才补贴、科研补助：国家自然科学基金项目，中国博士后科学基金项目，广东省海外博士后人才支持项目，深圳市及龙岗区人才项目及奖励补贴，深圳市博士后出站留深科研补助。
 
 #### 【申请程序】
-将个人简历、科研成果发送至邮箱: guanjun@cuhk.edu.cn，邮件标题注明:博士后申请+姓名。
+将个人简历、科研成果发送至邮箱: guanjun@cuhk.edu.cn，邮件标题注明:博士后申请-姓名。
 
 -----------------------------------
 
