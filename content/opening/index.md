@@ -37,6 +37,7 @@ We welcome undergraduate students with a strong interest in nanophotonics resear
 #### 【申请程序】
 将个人简历、科研成果发送至邮箱: guanjun@cuhk.edu.cn，邮件标题注明:博士后申请+姓名。
 
+-----------------------------------
 
 ## **2024级研究型硕士、博士招生**
 
