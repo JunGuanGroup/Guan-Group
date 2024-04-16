@@ -50,7 +50,8 @@ We welcome undergraduate students with a strong interest in nanophotonics resear
    * 基于金属纳米颗粒阵列的纳米激光器设计与加工
    * 多层莫尔光子超晶格中的新型光学现象研究
    * 可见光波段拓扑光子晶格设计
-   * 钙钛矿纳米晶激光器研究
+   * 钙钛矿纳米晶激光器件
+   * 基于超表面的光学衍射神经网络
 3. 招生专业：
    * 物理学
    * 材料科学与工程
