@@ -19,7 +19,7 @@ We welcome undergraduate students with a strong interest in nanophotonics resear
 <br>
 
 -----------------------------------
-## **博士后招聘**
+## **香港中文大学（深圳）管君课题组博士后招聘**
 
 #### 【招聘要求】
 1. 具有博士学位。物理、应用物理、光学、光电、材料等相关专业背景
@@ -39,7 +39,7 @@ We welcome undergraduate students with a strong interest in nanophotonics resear
 
 -----------------------------------
 
-## **2025级研究型硕士、博士招生**
+## **香港中文大学（深圳）管君课题组2025级研究型硕士、博士招生**
 
 #### 【招生信息】
 
