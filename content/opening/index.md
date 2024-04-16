@@ -1,6 +1,6 @@
 # **Openings**
 
-We are Actively Looking for Candidates to Join Our Team!
+We are actively looking for candidates to join our team!
 
 -----------------------------------
 
