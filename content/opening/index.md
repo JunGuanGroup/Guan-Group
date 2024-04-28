@@ -39,7 +39,7 @@ We welcome undergraduate students with a strong interest in nanophotonics resear
 
 -----------------------------------
 
-## **香港中文大学（深圳）管君课题组2025级研究型硕士、博士招生**
+## **香港中文大学（深圳）管君课题组2025级硕士、博士招生**
 
 #### 【招生信息】
 
