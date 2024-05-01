@@ -1,6 +1,6 @@
 ---
 title: Yuxiang Sun 孙宇翔
-role: 'M.Phil. Student  <br> yuxiangsun@link.cuhk.edu.cn'
+role: '1st Year M.Phil. Student  <br> yuxiangsun@link.cuhk.edu.cn'
 avatar_filename: avatar-Sunyuxiang-resized.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
