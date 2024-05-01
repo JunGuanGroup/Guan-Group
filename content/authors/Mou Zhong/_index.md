@@ -1,6 +1,6 @@
 ---
 title: Mou Zhong 仲谋
-role: '1st Year Ph.D. Student  <br>  mouzhong@link.cuhk.edu.cn'
+role: 'Ph.D. Student (1st Year) <br>  mouzhong@link.cuhk.edu.cn'
 avatar_filename: avatar-MouZhong.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen

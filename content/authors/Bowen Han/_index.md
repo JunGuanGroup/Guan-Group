@@ -1,6 +1,6 @@
 ---
 title: Bowen Han 韩博文
-role: '1st Year Ph.D. Student  <br>  bowenhan1@link.cuhk.edu.cn'
+role: 'Ph.D. Student (1st Year) <br>  bowenhan1@link.cuhk.edu.cn'
 avatar_filename: avatar-BowenHan-resized.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
