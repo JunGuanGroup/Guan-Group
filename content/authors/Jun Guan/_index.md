@@ -22,13 +22,13 @@ social:
 education:
   courses:
     - course: Postdoctoral Associate
-      institution: Massachusetts Institute of Technology  <br>   (advisor：Vladimir Bulović)
+      institution: 'Massachusetts Institute of Technology  <br>   (advisor：Vladimir Bulović)'
       year: 2022 - 2023
     - course: Postdoctoral Scholar
-      institution: Northwestern University <br>   (advisor：Teri W. Odom)
+      institution: 'Northwestern University <br>   (advisor：Teri W. Odom)'
       year: 2021 - 2022
     - course: Ph.D. in Applied Physics
-      institution: Northwestern University <br>  (advisor：Teri W. Odom, George C. Schatz)
+      institution: 'Northwestern University <br>  (advisor：Teri W. Odom, George C. Schatz)'
       year: 2016 - 2021
     - course: B.S. in Physics
       institution: " Sichuan University"
