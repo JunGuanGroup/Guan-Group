@@ -15,7 +15,7 @@ publication: "*ACS Nano* 2022 "
 abstract: 
 
 summary: "Jeong-Eun Park, Rafael López-Arteaga, Alexander D. Sample, Charles R. Cherqui, Ioannis Spanopoulos, **Jun Guan**, Mercouri G. Kanatzidis, George C. Schatz, Emily A. Weiss, Teri W. Odom*  <br>
-**_ACS nano_** 16, 3917–3925 (2022). [[Link]](https://pubs.acs.org/doi/abs/10.1021/acsnano.1c09296)"
+**_ACS Nano_** 16, 3917–3925 (2022). [[Link]](https://pubs.acs.org/doi/abs/10.1021/acsnano.1c09296)"
 draft: false
 featured: false
 tags:
