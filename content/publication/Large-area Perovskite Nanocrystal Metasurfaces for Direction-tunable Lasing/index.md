@@ -1,5 +1,5 @@
 ---
-title: Large-area Perovskite Nanocrystal Metasurfaces for Direction-tunable Lasing
+title: Large-Area Perovskite Nanocrystal Metasurfaces for Direction-Tunable Lasing
 
 
 subtitle: " [**_Nano Letters_**, accepted (2024) <br> 
