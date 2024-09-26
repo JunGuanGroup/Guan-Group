@@ -14,7 +14,7 @@ author_notes:
 publication: "*Nano Letters* 2024 "
 abstract: 
 
-summary: "Nanli Mou, Bing Tang, Bowen Han, Jingyue Yu, Delin Zhang, Zichun Bai, Mou Zhong, Biye Xie, Zhaoyu Zhang, Shikai Deng, Andrey L. Rogach, Jingtian Hu and **Jun Guan***  <br>
+summary: "Nanli Mou, Bing Tang, Bowen Han, Jingyue Yu, Delin Zhang, Zichun Bai, Mou Zhong, Biye Xie, Zhaoyu Zhang, Shikai Deng, Andrey L. Rogach, Jingtian Hu, and **Jun Guan***  <br>
 **_Nano Letters_** (2024). [[link]](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03921)"
 draft: false
 featured: false
