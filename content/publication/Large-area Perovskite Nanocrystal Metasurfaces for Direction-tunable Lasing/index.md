@@ -3,7 +3,7 @@ title: Large-Area Perovskite Nanocrystal Metasurfaces for Direction-Tunable Lasi
 
 
 subtitle: " [**_Nano Letters_** (2024) <br> 
-Nanli Mou, Bing Tang, Bowen Han, Jingyue Yu, Delin Zhang, Zichun Bai, Mou Zhong, Biye Xie, Zhaoyu Zhang, Shikai Deng, Andrey L. Rogach, Jingtian Hu, and **Jun Guan*** ]（https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03921）"
+Nanli Mou, Bing Tang, Bowen Han, Jingyue Yu, Delin Zhang, Zichun Bai, Mou Zhong, Biye Xie, Zhaoyu Zhang, Shikai Deng, Andrey L. Rogach, Jingtian Hu, and **Jun Guan***](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03921)"
 publication_types:
   - "2"
 authors: 
