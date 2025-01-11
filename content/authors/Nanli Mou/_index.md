@@ -23,7 +23,7 @@ education:
     - course: Ph.D. in Material Science and Engineering
       institution: "Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, China"
       year: 2014 - 2020
-    - course: B.A. in Optoelectronic Science and Technology
+    - course: B.Eng. in Optoelectronic Science and Technology
       institution: "Sichuan University, China"
       year: 2010 - 2014
 email: "mounanli@link.cuhk.edu.cn"

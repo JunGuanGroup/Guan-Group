@@ -1,6 +1,6 @@
 ---
 title: Zichun Bai 白子淳
-role: 'M.Phil. Student  <br>  zichunbai@link.cuhk.edu.cn'
+role: 'M.Phil. Student (2nd Year)  <br>  zichunbai@link.cuhk.edu.cn'
 avatar_filename: avatar-ZichunBai-resized.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -31,4 +31,5 @@ user_groups:
   - Graduate Students
 last_name: Bai
 first_name: Zichun
+weight: 40
 ---
