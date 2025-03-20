@@ -22,7 +22,7 @@ tags:
 
 
 image:
-  filename: High-Quality Plasmonic Lasing with Topologically Trivial or Nontrivial Polarization.jpg
+  filename: High-Quality Plasmonic Lasing with Topologically Trivial or Nontrivial Polarization.jpeg
   focal_point: Smart
   preview_only: false
 
