@@ -3,7 +3,7 @@ title: Far-field Coupling between Moiré Photonic Lattices
 
 
 subtitle: " [**_Nature Nanotechnology_** 18, 514–520 (2023) <br> 
-**Jun Guan***,  Jingtian Hu, Yi Wang, Max J. H. Tan, George C. Schatz, and Teri W. Odom*](https://www.nature.com/articles/s41565-023-01320-7)"
+Jun Guan*,  Jingtian Hu, Yi Wang, Max J. H. Tan, George C. Schatz, and Teri W. Odom*](https://www.nature.com/articles/s41565-023-01320-7)"
 publication_types:
   - "2"
 authors: 
