@@ -2,7 +2,7 @@
 title: High-Quality Plasmonic Lasing with Topologically Trivial or Nontrivial Polarization
 
 
-subtitle: " [**_ACS Photonics_** ASAP (2025) <br> 
+subtitle: " [**_ACS Photonics_** 12, 2252–2259 (2025) <br> 
 Mengyuan Song, Xinyu Gao, Chenghao Bai, Jun Guan*, and Xianyu Ao* ](https://pubs.acs.org/doi/10.1021/acsphotonics.5c00421)"
 publication_types:
   - "2"
@@ -15,7 +15,7 @@ publication: "*ACS Photonics* 2025 "
 abstract: 
 
 summary: "Mengyuan Song, Xinyu Gao, Chenghao Bai, Jun Guan*, and Xianyu Ao*  <br>
-**_ACS Photonics_** ASAP (2025). [[Link]](https://pubs.acs.org/doi/10.1021/acsphotonics.5c00421)"
+**_ACS Photonics_** 12, 2252–2259 (2025). [[Link]](https://pubs.acs.org/doi/10.1021/acsphotonics.5c00421)"
 draft: false
 featured: false
 tags:
