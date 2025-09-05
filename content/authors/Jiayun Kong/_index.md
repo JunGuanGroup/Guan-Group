@@ -1,6 +1,6 @@
 ---
 title: Jiayun Kong 孔嘉韵
-role: 'M.Phil. Student (1st Year) <br>  jiayunkong@link.cuhk.edu.cn'
+role: 'M.Phil. Student (2nd Year) <br>  jiayunkong@link.cuhk.edu.cn'
 avatar_filename: avatar-JYK.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
