@@ -30,5 +30,5 @@ user_groups:
   - Graduate Students
 last_name: Xu
 first_name: He
-weight: 30
+weight: 70
 ---

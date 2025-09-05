@@ -29,5 +29,5 @@ user_groups:
   - Graduate Students
 last_name: Chen
 first_name: Tao
-weight: 30
+weight: 80
 ---
