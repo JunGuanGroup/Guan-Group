@@ -20,7 +20,7 @@ social:
    
 education:
   courses:
-    - course: M.Phil. in Physics
+    - course: M.Phil. in Computer Information Engineering
       institution: "The Chinese University of Hong Kong, Shenzhen"
       year: 2025 - now
 

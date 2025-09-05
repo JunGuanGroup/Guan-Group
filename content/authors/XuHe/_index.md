@@ -11,7 +11,7 @@ authors:
   - Xu He
 bio:  Materials
 interests:
-  - Nano Fabrication
+  - Nanofabrication
   - Plasmonic materials
 
 social:
@@ -21,7 +21,7 @@ social:
    
 education:
   courses:
-    - course: M.Phil. in Physics
+    - course: M.Phil. in Materials Science and Engineering
       institution: "The Chinese University of Hong Kong, Shenzhen"
       year: 2025 - now
 
