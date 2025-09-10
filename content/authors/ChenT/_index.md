@@ -23,6 +23,10 @@ education:
     - course: M.Phil. in Computer Information Engineering
       institution: "The Chinese University of Hong Kong, Shenzhen"
       year: 2025 - now
+      
+    - course: Bachelor in Communication Engineering
+      institution:"Hunan University of Technology"
+      year:2021 - 2025
 
 email: "chentao2@link.cuhk.edu.cn"
 user_groups:
