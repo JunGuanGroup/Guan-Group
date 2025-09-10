@@ -1,7 +1,7 @@
 ---
 title: Xu He 何煦
 role: 'M.Phil. Student (1st Year) <br>  
-XuHe2@link.cuhk.edu.cn'
+xuhe2@link.cuhk.edu.cn'
 avatar_filename: avatar-XuH.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -26,7 +26,7 @@ education:
       year: 2025 - now
     - course: B.Sc. in Materials Science and Engineering
       institution: "Shandong University"
-      year: 2021 - 2015
+      year: 2021 - 2025
 
 email: "xuhe2@link.cuhk.edu.cn"
 user_groups:
