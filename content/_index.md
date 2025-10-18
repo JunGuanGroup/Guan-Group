@@ -12,7 +12,7 @@ sections:
         Group
         
       image:
-        filename: Bilayer.png
+        filename: Group_photo.jpg
       text: |
         <br>
         
