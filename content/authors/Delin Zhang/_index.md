@@ -10,9 +10,9 @@ authors:
   - Delin Zhang
 bio:  Physics
 interests:
+  - Plasmonic moiré superlattice
   - Topological photonics
-  - Surface plasmon
-  - Plasmonic lasers
+    
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,7 +20,7 @@ social:
    
 education:
   courses:
-    - course: M.Phil. in Physics
+    - course: Ph.D. in Physics
       institution: "The Chinese University of Hong Kong, Shenzhen"
       year: 2023 - now
     - course: B.S. in Physics
