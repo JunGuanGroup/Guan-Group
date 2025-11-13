@@ -22,12 +22,12 @@ tags:
 
 
 image:
-  filename: TOC.png
+  filename: scheme.jpg
   focal_point: Smart
   preview_only: false
 
  
-date: 2025-11-14T00:00:00Z
+date: 2025-11-12T00:00:00Z
 ---
 
 
