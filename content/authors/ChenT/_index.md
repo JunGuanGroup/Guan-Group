@@ -1,6 +1,6 @@
 ---
 title: Tao Chen 陈涛
-role: 'M.Phil. Student (1st Year) <br>  
+role: '1st Year <br>  
 taochen2@link.cuhk.edu.cn'
 avatar_filename: avatar-ChenT.jpg
 organizations:
@@ -22,7 +22,7 @@ education:
   courses:
     - course: M.Phil. in Computer Information Engineering
       institution: "The Chinese University of Hong Kong, Shenzhen"
-      year: 2025 - now
+      year: 2025.9 - now
       
     - course: Bachelor in Communication Engineering
       institution: "Hunan University of Technology"
@@ -30,7 +30,7 @@ education:
 
 email: "chentao2@link.cuhk.edu.cn"
 user_groups:
-  - Graduate Students
+  - M.Phil. Students
 last_name: Chen
 first_name: Tao
 weight: 80

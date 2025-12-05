@@ -1,6 +1,6 @@
 ---
 title: Delin Zhang 张德邻
-role: 'Ph.D. Student (3rd Year) <br>  delinzhang1@link.cuhk.edu.cn'
+role: '3rd Year <br>  delinzhang1@link.cuhk.edu.cn'
 avatar_filename: avatar-DelinZ.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -22,13 +22,13 @@ education:
   courses:
     - course: Ph.D. in Physics
       institution: "The Chinese University of Hong Kong, Shenzhen"
-      year: 2023 - now
+      year: 2023.9 - now
     - course: B.S. in Physics
       institution: "Central China Normal University"
       year: 2019 - 2023
 email: "delinzhang1@link.cuhk.edu.cn"
 user_groups:
-  - Graduate Students
+  - Ph.D. Students
 last_name: Zhang
 first_name: Delin
 weight: 30

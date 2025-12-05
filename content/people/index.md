@@ -13,7 +13,8 @@ sections:
       user_groups:
           - Principal Investigator
           - Postdoctoral Scholar
-          - Graduate Students
+          - Ph.D. Students
+          - M.Phil. Students
           - Administration
           - Visitors
           - Alumni   

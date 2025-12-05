@@ -1,6 +1,6 @@
 ---
 title: Mou Zhong 仲谋
-role: 'Ph.D. Student (3rd Year) <br>  mouzhong@link.cuhk.edu.cn'
+role: '3rd Year <br>  mouzhong@link.cuhk.edu.cn'
 avatar_filename: avatar-MouZhong.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -22,13 +22,13 @@ education:
   courses:
     - course: Ph.D. in Computer and Information Engineering
       institution: "The Chinese University of Hong Kong, Shenzhen"
-      year: 2023 - now
+      year: 2023.9 - now
     - course: B.Sc. in Opto-electronics Information Science and Engineering
       institution: "Sun Yat-sen University"
       year: 2018 - 2022
 email: "mouzhong@link.cuhk.edu.cn"
 user_groups:
-  - Graduate Students
+  - Ph.D. Students
 last_name: Zhong
 first_name: Mou
 weight: 20

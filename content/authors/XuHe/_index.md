@@ -1,6 +1,6 @@
 ---
 title: Xu He 何煦
-role: 'M.Phil. Student (1st Year) <br>  
+role: '1st Year <br>  
 xuhe2@link.cuhk.edu.cn'
 avatar_filename: avatar-XuH.jpg
 organizations:
@@ -23,14 +23,14 @@ education:
   courses:
     - course: M.Phil. in Materials Science and Engineering
       institution: "The Chinese University of Hong Kong, Shenzhen"
-      year: 2025 - now
+      year: 2025.9 - now
     - course: B.Sc. in Materials Science and Engineering
       institution: "Shandong University"
       year: 2021 - 2025
 
 email: "xuhe2@link.cuhk.edu.cn"
 user_groups:
-  - Graduate Students
+  - M.Phil. Students
 last_name: Xu
 first_name: He
 weight: 70

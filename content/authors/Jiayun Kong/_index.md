@@ -1,6 +1,6 @@
 ---
 title: Jiayun Kong 孔嘉韵
-role: 'M.Phil. Student (2nd Year) <br>  jiayunkong@link.cuhk.edu.cn'
+role: '2nd Year <br>  jiayunkong@link.cuhk.edu.cn'
 avatar_filename: avatar-JYK.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -22,13 +22,13 @@ education:
   courses:
     - course: M.Phil. in Physics
       institution: "The Chinese University of Hong Kong, Shenzhen"
-      year: 2025 - now
+      year: 2025.1 - now
     - course: B.S. in Applied Chemistry
       institution: "Northwest A&F University"
       year: 2020 - 2024
 email: "jiayunkong@link.cuhk.edu.cn"
 user_groups:
-  - Graduate Students
+  - M.Phil. Students
 last_name: Kong
 first_name: Jiayun
 weight: 60
