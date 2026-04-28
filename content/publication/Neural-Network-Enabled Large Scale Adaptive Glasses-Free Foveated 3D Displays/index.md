@@ -22,7 +22,7 @@ tags:
 
 
 image:
-  filename: scheme.jpeg
+  filename: scheme.jpg
   focal_point: Smart
   preview_only: false
 
