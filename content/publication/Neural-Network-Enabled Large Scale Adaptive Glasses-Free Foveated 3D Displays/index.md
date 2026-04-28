@@ -22,7 +22,7 @@ tags:
 
 
 image:
-  filename: scheme.jpg
+  filename: Neural-Network-Enabled Large Scale Adaptive Glasses-Free Foveated 3D Displays.jpg
   focal_point: Smart
   preview_only: false
 
