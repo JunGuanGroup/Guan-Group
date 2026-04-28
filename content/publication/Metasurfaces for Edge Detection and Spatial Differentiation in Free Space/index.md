@@ -3,7 +3,7 @@ title: Metasurfaces for Edge Detection and Spatial Differentiation in Free Space
 
 
 subtitle: " [**_Advanced Functional Materials_** e74788 (2026) <br> 
-Xingzhe Cui, Shengjie He, Zhongjun Li, Tao Chen, Xu Zhang, Yuxiang Sun, Yunkai Wu, Jun Guan, and Jingtian Hu]([https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.74788?__cf_chl_tk=EB_mcL0AR9A1vsDJdYFavd4cZY54rypoRyMaFIXTLxA-1776840656-1.0.1.1-Z86ts3TZi1VvzCs658U.TYHE0qB.uh2R0mjkQUFXZwM])"
+Xingzhe Cui, Shengjie He, Zhongjun Li, Tao Chen, Xu Zhang, Yuxiang Sun, Yunkai Wu, Jun Guan, and Jingtian Hu]([https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.74788])"
 publication_types:
   - "2"
 authors: 
@@ -15,7 +15,7 @@ publication: "*Advanced Functional Materials* 2026 "
 abstract: 
 
 summary: "Xingzhe Cui, Shengjie He, Zhongjun Li, Tao Chen, Xu Zhang, Yuxiang Sun, Yunkai Wu, Jun Guan, and Jingtian Hu  <br>
-**_Advanced Functional Materials_** e74788 (2026). [[link]]([https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.74788?__cf_chl_tk=EB_mcL0AR9A1vsDJdYFavd4cZY54rypoRyMaFIXTLxA-1776840656-1.0.1.1-Z86ts3TZi1VvzCs658U.TYHE0qB.uh2R0mjkQUFXZwM])"
+**_Advanced Functional Materials_** e74788 (2026). [[link]]([https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.74788])"
 draft: false
 featured: false
 tags:
