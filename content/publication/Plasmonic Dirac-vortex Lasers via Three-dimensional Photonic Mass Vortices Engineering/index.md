@@ -14,7 +14,7 @@ publication: "*Nature Communications* 2026 "
 abstract: 
 
 summary: "Mou Zhong, Xiaoqiong Bi, Mengyuan Song, Nanli Mou, Delin Zhang, Xiaolu Zhuo, Jingtian Hu, Biye Xie, Xianyu Ao, and Jun Guan*  <br>
-**_Nature Communications_** 17, 4161 (2026).[[link]](https://www.nature.com/articles/s41467-026-70833-1) "
+**_Nature Communications_** 17, 4161 (2026). [[link]](https://www.nature.com/articles/s41467-026-70833-1) "
 draft: false
 featured: false
 tags:
