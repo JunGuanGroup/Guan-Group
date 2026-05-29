@@ -36,7 +36,7 @@ education:
 
 email: "yangxueqing@cuhk.edu.cn"
 user_groups:
-  - Postdoc faculty
+  - Postdoctoral Scholar
 last_name: Yang
 first_name: Xueqing
 weight: 30
