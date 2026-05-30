@@ -1,6 +1,6 @@
 ---
 title: Xueqing Yang 杨雪清
-role: '1st Year <br>  yangxueqing@cuhk.edu.cn'
+role: ' <br>  yangxueqing@cuhk.edu.cn'
 avatar_filename: avatar-XueqingY.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
