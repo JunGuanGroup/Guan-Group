@@ -3,7 +3,7 @@ title: Spatially Dispersive Lasing for Spectrally Encoded Imaging
 
 
 subtitle: " [**_Laser & Photonics Reviews_** e71332 (2026) <br> 
-Z.Li, Y.Zhou, J.Guan*, Y.Cai*, and X.Ao*](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.71332)"
+Zhuang Li, Yufeng Zhou, Jun Guan*, Yangjian Cai*, Xianyu Ao*](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.71332)"
 publication_types:
   - "2"
 authors: 
