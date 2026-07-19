@@ -2,7 +2,7 @@
 title: Diffractive Arithmetic Processing by Conditional Optical Generative Models
 
 
-subtitle: " [**_Laser & Photonics Reviews_** e02983. (2026) <br> 
+subtitle: " [**_Laser & Photonics Reviews_** e02983 (2026) <br> 
 Fenglei Wang, Yuxiang Sun, Zezheng Zhang, Chuang Yang, Nanxing Chen, Shuo Wang, Jing Han, Yingjie Li, Geyang Qu, Shengjie Wang, Jun Guan, Qifeng Ruan, Jingtian Hu* ](https://doi.org/10.1002/lpor.202502983)"
 publication_types:
   - "2"
@@ -15,7 +15,7 @@ publication: "*Laser & Photonics Reviews* 2026 "
 abstract: 
 
 summary: "Fenglei Wang, Yuxiang Sun, Zezheng Zhang, Chuang Yang, Nanxing Chen, Shuo Wang, Jing Han, Yingjie Li, Geyang Qu, Shengjie Wang, Jun Guan, Qifeng Ruan, Jingtian Hu*  <br>
-**_Laser & Photonics Reviews_** e02983. (2026). [[Link]](https://doi.org/10.1002/lpor.202502983)"
+**_Laser & Photonics Reviews_** e02983 (2026). [[Link]](https://doi.org/10.1002/lpor.202502983)"
 draft: false
 featured: false
 tags:
