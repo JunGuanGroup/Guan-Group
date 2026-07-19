@@ -1,9 +1,9 @@
 ---
-title: Engineering Directionality in Quantum Dot Shell Lasing Using Plasmonic Lattices
+title: Diffractive Arithmetic Processing by Conditional Optical Generative Models
 
 
-subtitle: " [**_Nano Letters_** 20, 1468–1474 (2020) <br> 
-Jun Guan, Laxmi Kishore Sagar, Ran Li, Danqing Wang, Golam Bappi, Nicolas E. Watkins, Marc R. Bourgeois, Larissa Levina, Fengjia Fan, Sjoerd Hoogland, Oleksandr Voznyy, Joao Martins de Pina, Richard D. Schaller, George C. Schatz, Edward H. Sargent, and Teri W. Odom* ](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b05342)"
+subtitle: " [**_Laser & Photonics Reviews_** e02983. (2026) <br> 
+Fenglei Wang, Yuxiang Sun, Zezheng Zhang, Chuang Yang, Nanxing Chen, Shuo Wang, Jing Han, Yingjie Li, Geyang Qu, Shengjie Wang, Jun Guan, Qifeng Ruan, Jingtian Hu* ](https://doi.org/10.1002/lpor.202502983)"
 publication_types:
   - "2"
 authors: 
@@ -11,23 +11,23 @@ authors:
 author_notes:
   
 
-publication: "*Nano Letters* 2020 "
+publication: "*Laser & Photonics Reviews* 2026 "
 abstract: 
 
-summary: "Jun Guan, Laxmi Kishore Sagar, Ran Li, Danqing Wang, Golam Bappi, Nicolas E. Watkins, Marc R. Bourgeois, Larissa Levina, Fengjia Fan, Sjoerd Hoogland, Oleksandr Voznyy, Joao Martins de Pina, Richard D. Schaller, George C. Schatz, Edward H. Sargent, and Teri W. Odom*  <br>
-**_Nano Letters_** 20, 1468–1474 (2020). [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.9b05342)"
+summary: "Fenglei Wang, Yuxiang Sun, Zezheng Zhang, Chuang Yang, Nanxing Chen, Shuo Wang, Jing Han, Yingjie Li, Geyang Qu, Shengjie Wang, Jun Guan, Qifeng Ruan, Jingtian Hu*  <br>
+**_Laser & Photonics Reviews_** e02983. (2026). [[Link]](https://doi.org/10.1002/lpor.202502983)"
 draft: false
 featured: false
 tags:
 
 
 image:
-  filename: Engineering Directionality in Quantum Dot Shell Lasing Using Plasmonic Lattices.jpg
+  filename: Diffractive Arithmetic Processing by Conditional Optical Generative Models.jpg
   focal_point: Smart
   preview_only: false
 
  
-date: 2020-01-31T00:00:00Z
+date: 2026-06-10T00:00:00Z
 ---
 
 
