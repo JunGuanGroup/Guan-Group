@@ -15,7 +15,7 @@ publication: "*Laser & Photonics Reviews* 2026 "
 abstract: 
 
 summary: "Fenglei Wang, Yuxiang Sun, Zezheng Zhang, Chuang Yang, Nanxing Chen, Shuo Wang, Jing Han, Yingjie Li, Geyang Qu, Shengjie Wang, Jun Guan, Qifeng Ruan, Jingtian Hu*  <br>
-**_Laser & Photonics Reviews_** e02983 (2026). [[Link]](https://doi.org/10.1002/lpor.202502983)"
+**_Laser & Photonics Reviews_** e02983 (2026) [[Link]](https://doi.org/10.1002/lpor.202502983)"
 draft: false
 featured: false
 tags:
