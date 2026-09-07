@@ -2,7 +2,7 @@
 title: Chen Liu 刘晨
 role: '1st Year <br>  
 chenliu1@link.cuhk.edu.cn'
-avatar_filename: avatar_ChenL.jpg
+avatar_filename: avatar_ChenL.jpeg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
     url: ""
