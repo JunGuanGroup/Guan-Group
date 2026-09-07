@@ -34,5 +34,5 @@ user_groups:
   - M.Phil. Students
 last_name: Rao
 first_name: Yitian
-weight: 95
+weight: 100
 ---
