@@ -1,6 +1,6 @@
 ---
 title: Tao Chen 陈涛
-role: '1st Year <br>  
+role: '2nd Year <br>  
 taochen2@link.cuhk.edu.cn'
 avatar_filename: avatar-ChenT.jpg
 organizations:
@@ -12,6 +12,7 @@ authors:
 bio:  Computer Information Engineering
 interests:
   - optical diffraction neural network
+  - Moiré photonics
 
 social:
   - icon: envelope
