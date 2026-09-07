@@ -31,5 +31,5 @@ user_groups:
   - M.Phil. Students
 last_name: Kong
 first_name: Jiayun
-weight: 60
+weight: 70
 ---
