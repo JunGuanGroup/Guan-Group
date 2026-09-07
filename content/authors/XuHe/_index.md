@@ -33,5 +33,5 @@ user_groups:
   - M.Phil. Students
 last_name: Xu
 first_name: He
-weight: 70
+weight: 80
 ---
