@@ -1,7 +1,7 @@
 ---
 title: Yitian Rao 饶义天
 role: '1st Year <br>  
-226015089@link.cuhk.edu.cn'
+yitianrao@link.cuhk.edu.cn'
 avatar_filename: avatar_YitianR.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 226015089@link.cuhk.edu.cn
+    link: yitianrao@link.cuhk.edu.cn
    
 education:
   courses:
@@ -29,7 +29,7 @@ education:
       institution: "Huazhong University of Science and Technology"
       year: 2022 - 2026
 
-email: "226015089@link.cuhk.edu.cn"
+email: "yitianrao@link.cuhk.edu.cn"
 user_groups:
   - M.Phil. Students
 last_name: Rao
