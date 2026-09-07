@@ -1,7 +1,7 @@
 ---
 title: Jiahuan He 何佳欢
 role: '1st Year <br>  jiahuanhe@link.cuhk.edu.cn'
-avatar_filename: avatar-JiahuanH.jpg
+avatar_filename: avatar-JiahuanH.jpeg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
     url: ""
