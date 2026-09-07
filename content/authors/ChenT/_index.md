@@ -34,5 +34,5 @@ user_groups:
   - M.Phil. Students
 last_name: Chen
 first_name: Tao
-weight: 80
+weight: 90
 ---
