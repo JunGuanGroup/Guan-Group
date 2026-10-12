@@ -7,10 +7,6 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Guan Group
-
-  - block: markdown
-    content:
       title:
       subtitle: ''
       text:
@@ -28,7 +24,10 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
+  - block: markdown
+    content:
+      title: Guan Group
+      text: The **Guan Group @ CUHK-Shenzhen** focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions at the nanoscale and to enable laser devices with diverse functionalities.
 
 
 
