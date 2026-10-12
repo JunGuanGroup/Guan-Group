@@ -10,12 +10,15 @@ sections:
       title: |
         Guan
         Group
-        
-      image:
-        filename: Group_photo_2026.jpg
+
       text: |
-        <br>
+        <img src="Group_photo_2026.jpg" alt="Group photo" style="max-width:100%; height:auto; display:block; margin:0 auto 1rem;">
         
-        #The **Guan Group @ CUHK-Shenzhen** focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions at the nanoscale and to enable laser devices with diverse functionalities.
+      #image:
+        #filename: Group_photo_2026.jpg
+      #text: |
+        #<br>
+        
+      The **Guan Group @ CUHK-Shenzhen** focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions at the nanoscale and to enable laser devices with diverse functionalities.
 
 ---
