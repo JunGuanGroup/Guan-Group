@@ -22,7 +22,7 @@ sections:
 #type: landing
 
 #sections:
-  - #block: hero
+  #- block: hero
     #content:
       #title: |
         #Guan
