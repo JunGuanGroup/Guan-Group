@@ -16,7 +16,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Guan_group_2026.jpg
+          filename: Group_photo_2026.jpg
           filters:
             brightness: 1
           parallax: false
