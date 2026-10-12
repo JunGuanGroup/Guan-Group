@@ -38,23 +38,23 @@ sections:
 
 
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
-type: landing
+#title:
+#date: 2022-10-24
+#type: landing
 
-sections:
-  - block: hero
-    content:
-      title: |
-        Guan
-        Group
+#sections:
+  #- block: hero
+    #content:
+      #title: |
+        #Guan
+        #Group
         
         
-      image:
-        filename: Group_photo_2026.jpg
-      text: |
-        <br>
+      #image:
+        #filename: Group_photo_2026.jpg
+      #text: |
+        #<br>
         
-        The **Guan Group @ CUHK-Shenzhen** focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions at the nanoscale and to enable laser devices with diverse functionalities.
+        #The **Guan Group @ CUHK-Shenzhen** focuses on the design of hybrid nanophotonic architectures to manipulate light-matter interactions at the nanoscale and to enable laser devices with diverse functionalities.
 
 ---
