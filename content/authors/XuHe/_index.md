@@ -1,6 +1,6 @@
 ---
 title: Xu He 何煦
-role: '1st Year <br>  
+role: '2nd Year <br>  
 xuhe2@link.cuhk.edu.cn'
 avatar_filename: avatar-XuH.jpg
 organizations:
@@ -33,5 +33,5 @@ user_groups:
   - M.Phil. Students
 last_name: Xu
 first_name: He
-weight: 70
+weight: 80
 ---

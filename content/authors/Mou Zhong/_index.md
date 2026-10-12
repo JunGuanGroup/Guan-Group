@@ -1,6 +1,6 @@
 ---
 title: Mou Zhong 仲谋
-role: '3rd Year <br>  mouzhong@link.cuhk.edu.cn'
+role: '5th Year <br>  mouzhong@link.cuhk.edu.cn'
 avatar_filename: avatar-MouZhong.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen

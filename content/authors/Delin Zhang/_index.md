@@ -1,6 +1,6 @@
 ---
 title: Delin Zhang 张德邻
-role: '3rd Year <br>  delinzhang1@link.cuhk.edu.cn'
+role: '4th Year <br>  delinzhang1@link.cuhk.edu.cn'
 avatar_filename: avatar-DelinZ.jpg
 organizations:
   - name: The Chinese University of Hong Kong, Shenzhen
