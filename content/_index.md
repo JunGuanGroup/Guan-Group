@@ -12,7 +12,7 @@ sections:
         Group
         
       image:
-        filename: Group_photo.jpg
+        filename: Group_photo_2026.jpg
       text: |
         <br>
         
